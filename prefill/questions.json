@@ -1,0 +1,1412 @@
+[
+  {
+    "question": "Wie lang ist der Aktivitätszyklus der Sonne?",
+    "answers": [
+      "5-6 Jahre",
+      "11-12 Jahre",
+      "22-23 Jahre",
+      "33-34 Jahre"
+    ],
+    "correct": [
+      1,
+      2
+    ],
+    "schwierigkeit": 4,
+    "hint": "Die Sonnenfleckenaktivität folgt einem regelmäßigen Zyklus. Bedenke, dass es sowohl einen primären Zyklus gibt als auch einen vollständigen magnetischen Zyklus, der doppelt so lang ist."
+  },
+  {
+    "question": "Was ist ein Magnetar?",
+    "answers": [
+      "Ein extrem schnell rotierender Weißer Zwerg",
+      "Ein supermassives Schwarzes Loch mit starkem Magnetfeld",
+      "Eine spezielle Form von Neutronensternen mit extrem starkem Magnetfeld",
+      "Ein magnetischer Bereich zwischen Galaxien"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 6,
+    "hint": "Diese Objekte besitzen die stärksten bekannten Magnetfelder im Universum, bis zu 10^15 Gauss, und entstehen als Überreste massereicher Sterne."
+  },
+  {
+    "question": "Welche Teilchen werden hauptsächlich beim CNO-Zyklus in massereichen Sternen erzeugt?",
+    "answers": [
+      "Neutrinos und Gammastrahlung",
+      "Helium-4 Kerne, Positronen und Neutrinos",
+      "Kohlenstoff und Sauerstoff",
+      "Eisen und Nickel"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Dieser Fusionszyklus wandelt Wasserstoff in Helium um, wobei Kohlenstoff, Stickstoff und Sauerstoff als Katalysatoren dienen. Denk an die Nebenprodukte der Kernfusion!"
+  },
+  {
+    "question": "Was beschreibt die Eddington-Grenze in der Stellarphysik?",
+    "answers": [
+      "Die maximale Leuchtkraft eines Sterns, bei der Strahlungsdruck und Gravitation im Gleichgewicht sind",
+      "Die Grenze, ab der ein Stern zum Roten Riesen wird",
+      "Die maximale Temperatur im Kern eines Hauptreihensterns",
+      "Die minimale Masse für die Wasserstofffusion"
+    ],
+    "correct": [
+      0
+    ],
+    "schwierigkeit": 9,
+    "hint": "Diese Grenze ist besonders für massereiche Sterne relevant und beschreibt ein fundamentales Gleichgewicht zwischen zwei entgegengesetzten Kräften, die auf die Sternmaterie wirken."
+  },
+  {
+    "question": "Was ist die Bedeutung der Tolman-Oppenheimer-Volkoff-Grenze?",
+    "answers": [
+      "Die maximale Rotationsgeschwindigkeit eines Neutronensterns",
+      "Die maximale Masse eines stabilen Neutronensterns",
+      "Die minimale Temperatur für die Kernfusion von Eisen",
+      "Die Grenze, ab der relativistische Effekte in Galaxienclustern dominieren"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 10,
+    "hint": "Diese Grenze ist entscheidend für das Schicksal massereicher Sternüberreste. Wird sie überschritten, gibt es keine bekannte Kraft, die dem Gravitationskollaps widerstehen kann."
+  },
+  {
+    "question": "Welche Beziehung beschreibt die Tully-Fisher-Relation?",
+    "answers": [
+      "Den Zusammenhang zwischen Masse und Radius von Neutronensternen",
+      "Die Korrelation zwischen der Rotationsgeschwindigkeit einer Spiralgalaxie und ihrer Leuchtkraft",
+      "Die Beziehung zwischen Alter und Metallizität von Kugelsternhaufen",
+      "Die Abhängigkeit der Expansionsrate des Universums von der Dichte"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 7,
+    "hint": "Diese empirische Relation ist ein wichtiges Werkzeug für Astronomen, um die Entfernung zu Galaxien zu bestimmen. Sie nutzt einen Zusammenhang zwischen einer direkt messbaren kinematischen Eigenschaft und der Helligkeit."
+  },
+  {
+    "question": "Was beschreibt das No-Hair-Theorem bei Schwarzen Löchern?",
+    "answers": [
+      "Schwarze Löcher können keine festen Oberflächen haben",
+      "Ein Schwarzes Loch kann keine magnetischen Eigenschaften besitzen",
+      "Ein Schwarzes Loch kann nur durch drei klassische Parameter charakterisiert werden: Masse, Drehimpuls und elektrische Ladung",
+      "Die Oberfläche eines Schwarzen Lochs kann keine Informationen speichern"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 9,
+    "hint": "Der Name dieses Theorems deutet an, dass Schwarze Löcher 'keine Haare haben', also kaum individuelle Eigenschaften. Überlege, welche grundlegenden physikalischen Parameter ein Schwarzes Loch vollständig beschreiben könnten."
+  },
+  {
+    "question": "Was versteht man unter der 'Reionisationsepoche' des Universums?",
+    "answers": [
+      "Die Zeit, in der die ersten Sterne entstanden und das neutrale Gas im Universum ionisierten",
+      "Die Phase, in der sich nach dem Urknall erstmals Atome bildeten",
+      "Der Zeitpunkt, an dem die kosmische Hintergrundstrahlung entstand",
+      "Die Periode, in der sich die ersten Galaxien zu Clustern zusammenschlossen"
+    ],
+    "correct": [
+      0
+    ],
+    "schwierigkeit": 8,
+    "hint": "Nach der 'dunklen Zeit' des Universums sorgte eine wichtige Entwicklung dafür, dass Elektronen wieder von ihren Atomen getrennt wurden. Denke an die ersten Lichtquellen im Universum!"
+  },
+  {
+    "question": "Was ist die Bedeutung des Malmquist-Bias in der beobachtenden Astronomie?",
+    "answers": [
+      "Ein systematischer Fehler bei der Messung von Sternradien",
+      "Eine Verzerrung in der statistischen Analyse, da entfernte lichtschwache Objekte nicht beobachtet werden können",
+      "Ein Kalibrierungsproblem bei Teleskopen",
+      "Die falsche Interpretation von Rotverschiebungsdaten"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Dieser Bias ist ein Problem bei der Auswertung astronomischer Beobachtungen. Er entsteht durch die begrenzte Empfindlichkeit unserer Instrumente und betrifft besonders die Statistik entfernter Objekte."
+  },
+  {
+    "question": "Was ist das 'Firewall-Paradoxon' in der Theorie Schwarzer Löcher?",
+    "answers": [
+      "Ein Widerspruch zwischen Quantenverschränkung und Allgemeiner Relativitätstheorie am Ereignishorizont",
+      "Die unmögliche Temperatur am Zentrum eines Schwarzen Lochs",
+      "Ein mathematischer Fehler in Hawkings Strahlungstheorie",
+      "Die theoretische Unmöglichkeit, dass Schwarze Löcher Strahlung abgeben"
+    ],
+    "correct": [
+      0
+    ],
+    "schwierigkeit": 10,
+    "hint": "Dieses Paradoxon entstand 2012 und betrifft das Informationsparadoxon Schwarzer Löcher. Es stellt fundamentale Prinzipien der Physik in Frage, insbesondere wie sich Informationen und Energie am Ereignishorizont verhalten."
+  },
+  {
+    "question": "Welche Rolle spielt das Baryon Acoustic Oscillations (BAO) in der Kosmologie?",
+    "answers": [
+      "Sie sind die primären Quellen für Gravitationswellen",
+      "Sie dienen als 'Standardlineal' zur Messung kosmologischer Distanzen",
+      "Sie verursachen die Rotation von Galaxien",
+      "Sie sind verantwortlich für die Existenz Dunkler Materie"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 9,
+    "hint": "Diese 'Schallwellen' des frühen Universums haben eine charakteristische Längenskala hinterlassen, die wir heute noch in der Verteilung von Galaxien messen können. Sie helfen Kosmologen bei einer wichtigen Messaufgabe."
+  },
+  {
+    "question": "Was verursacht die charakteristischen Jets aktiver galaktischer Kerne (AGN)?",
+    "answers": [
+      "Thermonukleare Explosionen im Zentrum der Galaxie",
+      "Der Zusammenstoß von Sternen im galaktischen Kern",
+      "Akkretion von Materie auf ein rotierendes supermassives Schwarzes Loch und dessen Magnetfeld",
+      "Stoßwellen von Supernovae, die aus dem Galaxienkern ausgestoßen werden"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 7,
+    "hint": "Diese gigantischen Energieausbrüche können sich über tausende Lichtjahre erstrecken. Ihr Ursprung hängt mit dem zentralen Objekt der Galaxie zusammen und involviert starke Magnetfelder sowie relativistische Effekte."
+  },
+  {
+    "question": "Welche Bedeutung hat die Salpeter-Masse in der Stellarphysik?",
+    "answers": [
+      "Die kritische Masse für den Beginn der Heliumfusion",
+      "Die Masse, ab der ein Stern als Supernova explodieren kann",
+      "Die Grenzmasse zwischen Braunen Zwergen und Sternen",
+      "Die charakteristische Masse in der Anfangsmassenverteilung von Sternen"
+    ],
+    "correct": [
+      3
+    ],
+    "schwierigkeit": 8,
+    "hint": "Edwin Salpeter beschrieb 1955 eine fundamentale statistische Eigenschaft von Sternpopulationen. Es geht um die Häufigkeit von Sternen unterschiedlicher Massen bei ihrer Entstehung."
+  },
+  {
+    "question": "Was ist der 'Große Attraktor' in der Kosmologie?",
+    "answers": [
+      "Ein hypothetisches supermassives Schwarzes Loch im Zentrum unserer Galaxie",
+      "Eine massive Gravitationsanomalie, zu der sich die lokale Galaxiengruppe hinbewegt",
+      "Der massereichste Galaxienhaufen im beobachtbaren Universum",
+      "Eine theoretische Region, in der die Dunkle Energie konzentriert ist"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 6,
+    "hint": "Diese rätselhafte Region wurde in den 1970er Jahren entdeckt und beeinflusst die Bewegung von tausenden Galaxien, einschließlich unserer Milchstraße. Sie liegt etwa 150-250 Millionen Lichtjahre entfernt in Richtung des Sternbilds Centaurus."
+  },
+  {
+    "question": "Was besagt die Bekenstein-Hawking-Entropie über Schwarze Löcher?",
+    "answers": [
+      "Schwarze Löcher verlieren kontinuierlich Masse durch Hawking-Strahlung",
+      "Die Entropie eines Schwarzen Lochs ist proportional zu seiner Oberfläche, nicht zu seinem Volumen",
+      "Schwarze Löcher können keine Informationen speichern",
+      "Die Temperatur eines Schwarzen Lochs ist umgekehrt proportional zu seiner Masse"
+    ],
+    "correct": [
+      1,
+      3
+    ],
+    "schwierigkeit": 10,
+    "hint": "Diese fundamentale Eigenschaft Schwarzer Löcher steht im Widerspruch zum üblichen Verhalten der Entropie in normaler Materie. Sie hat auch wichtige Implikationen für die thermodynamischen Eigenschaften dieser Objekte."
+  },
+  {
+    "question": "Wie groß wäre der Schwarzschild-Radius der Sonne, falls diese zu einem schwarzen Loch kollabieren könnte?",
+    "answers": [
+      "Etwa 3 Kilometer",
+      "Etwa 30 Kilometer",
+      "Etwa 300 Kilometer",
+      "Etwa 3000 Kilometer"
+    ],
+    "correct": [
+      0
+    ],
+    "schwierigkeit": 5,
+    "hint": "Der Schwarzschild-Radius hängt direkt von der Masse des Objekts ab. Für ein Objekt mit Sonnenmasse beträgt er R_s = 2GM/c², wobei G die Gravitationskonstante, M die Masse und c die Lichtgeschwindigkeit ist."
+  },
+  {
+    "question": "Welche Oberflächentemperatur hätte ein Schwarzes Loch mit der Masse der Sonne aufgrund der Hawking-Strahlung?",
+    "answers": [
+      "Etwa 60 Nanokelvin",
+      "Etwa 60 Mikrokelvin",
+      "Etwa 60 Millikelvin",
+      "Etwa 60 Kelvin"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 9,
+    "hint": "Die Hawking-Temperatur ist umgekehrt proportional zur Masse des Schwarzen Lochs: T = ℏc³/(8πGMk_B). Für stellare Schwarze Löcher ist diese Temperatur extrem niedrig."
+  },
+  {
+    "question": "Wenn unsere Sonne plötzlich verschwinden würde, wie lange würde es dauern, bis die Erde von ihrer Umlaufbahn abweichen würde?",
+    "answers": [
+      "Sofort",
+      "Etwa 8 Minuten",
+      "Etwa 24 Stunden",
+      "Etwa einen Monat"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 6,
+    "hint": "Denke an die Ausbreitungsgeschwindigkeit von Gravitationswellen oder -feldern gemäß der Relativitätstheorie. Wie lange braucht Licht von der Sonne zur Erde?"
+  },
+  {
+    "question": "Wie viel Energie (in Joule) würde freigesetzt, wenn 1 kg Materie vollständig mit 1 kg Antimaterie annihiliert würde?",
+    "answers": [
+      "9 × 10^13 J",
+      "9 × 10^15 J",
+      "9 × 10^16 J",
+      "9 × 10^17 J"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 7,
+    "hint": "Verwende Einsteins berühmte Formel E = mc². In diesem Fall ist m = 2 kg und c = 3 × 10^8 m/s."
+  },
+  {
+    "question": "Wie alt wäre eine Person, die 10 Jahre lang mit 99,5% der Lichtgeschwindigkeit durch das All reist, aus der Perspektive der auf der Erde zurückgebliebenen Menschen?",
+    "answers": [
+      "Etwa 10 Jahre",
+      "Etwa 70 Jahre",
+      "Etwa 100 Jahre",
+      "Etwa 140 Jahre"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Nutze die Formel für die Zeitdilatation: t' = t/√(1-v²/c²), wobei t die Zeit im bewegten System (Raumschiff), t' die Zeit im ruhenden System (Erde), v die Geschwindigkeit und c die Lichtgeschwindigkeit ist."
+  },
+  {
+    "question": "Welche Kraft übt die Erde gravitativ auf einen 70 kg schweren Menschen aus?",
+    "answers": [
+      "Etwa 70 N",
+      "Etwa 270 N",
+      "Etwa 490 N",
+      "Etwa 686 N"
+    ],
+    "correct": [
+      3
+    ],
+    "schwierigkeit": 6,
+    "hint": "Die Gravitationskraft auf der Erdoberfläche berechnet sich mit F = m·g, wobei m die Masse des Objekts und g die Gravitationsbeschleunigung auf der Erde (9,81 m/s²) ist."
+  },
+  {
+    "question": "Um wieviel Prozent ist die Zeit in GPS-Satelliten aufgrund relativistischer Effekte schneller als auf der Erdoberfläche?",
+    "answers": [
+      "Etwa 0,000045%",
+      "Etwa 0,00045%",
+      "Etwa 0,0045%",
+      "Etwa 0,045%"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 9,
+    "hint": "GPS-Satelliten erfahren zwei gegenläufige relativistische Effekte: Zeitverlangsamung durch ihre Bewegung (Spezielle Relativitätstheorie) und Zeitbeschleunigung durch das schwächere Gravitationsfeld (Allgemeine Relativitätstheorie). Der Netto-Effekt ist eine leichte Beschleunigung der Zeit."
+  },
+  {
+    "question": "Wie groß wäre der Ereignishorizont eines supermassiven Schwarzen Lochs mit 4 Millionen Sonnenmassen (wie Sagittarius A* im Zentrum der Milchstraße)?",
+    "answers": [
+      "Etwa 12 Millionen Kilometer",
+      "Etwa 12 Millionen Meter",
+      "Etwa 12 Millionen Meilen",
+      "Etwa 12 Millionen astronomische Einheiten"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 7,
+    "hint": "Der Schwarzschild-Radius wächst linear mit der Masse. Wenn der Schwarzschild-Radius der Sonne etwa 3 km beträgt, wie groß wäre er für ein Objekt mit 4 Millionen Sonnenmassen?"
+  },
+  {
+    "question": "Ein Stern mit 20 Sonnenmassen verbraucht seinen Wasserstoffvorrat etwa wie viel schneller als unsere Sonne?",
+    "answers": [
+      "Etwa 20-mal schneller",
+      "Etwa 400-mal schneller",
+      "Etwa 8000-mal schneller",
+      "Etwa 160.000-mal schneller"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 8,
+    "hint": "Die Leuchtkraft eines Sterns wächst ungefähr mit der dritten Potenz seiner Masse (L ∝ M³), während sein Brennstoffvorrat nur linear mit der Masse wächst. Die Lebensdauer ist proportional zum Verhältnis von Brennstoff zu Leuchtkraft."
+  },
+  {
+    "question": "Bei welchem Abstand vom Beobachter entfernen sich Galaxien aufgrund der kosmischen Expansion mit Lichtgeschwindigkeit (bei der aktuellen Hubble-Konstante von etwa 70 km/s/Mpc)?",
+    "answers": [
+      "Etwa 4,3 Milliarden Lichtjahre",
+      "Etwa 10 Milliarden Lichtjahre",
+      "Etwa 14,3 Milliarden Lichtjahre",
+      "Etwa 28,5 Milliarden Lichtjahre"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 10,
+    "hint": "Verwende das Hubble-Gesetz: v = H₀ × d, wobei v die Fluchtgeschwindigkeit, H₀ die Hubble-Konstante und d die Entfernung ist. Setze v = c (Lichtgeschwindigkeit) und löse nach d auf."
+  },
+  {
+    "question": "Wie viel mehr wiegt ein Objekt am Äquator im Vergleich zum Nordpol aufgrund der Erdabplattung und der Zentrifugalkraft?",
+    "answers": [
+      "Es wiegt am Äquator etwa 0,3% weniger",
+      "Es wiegt am Äquator etwa 0,3% mehr",
+      "Es wiegt am Äquator etwa 3% weniger",
+      "Es wiegt am Äquator etwa 3% mehr"
+    ],
+    "correct": [
+      0
+    ],
+    "schwierigkeit": 7,
+    "hint": "Die Gravitation wird am Äquator durch zwei Faktoren beeinflusst: Die Zentrifugalkraft durch die Erdrotation reduziert die effektive Schwerkraft, und die Abplattung der Erde bedeutet, dass man am Äquator weiter vom Erdmittelpunkt entfernt ist."
+  },
+  {
+    "question": "Welchen Durchmesser müsste ein hypothetischer Planet mit der gleichen Dichte wie die Erde haben, damit seine Oberflächen-Fluchtgeschwindigkeit die Lichtgeschwindigkeit erreicht?",
+    "answers": [
+      "Etwa 30.000 km",
+      "Etwa 300.000 km",
+      "Etwa 3 Millionen km",
+      "Etwa 30 Millionen km"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 9,
+    "hint": "Die Fluchtgeschwindigkeit berechnet sich mit v_e = √(2GM/R). Wenn diese gleich der Lichtgeschwindigkeit sein soll, kannst du nach R auflösen. Berücksichtige die Dichte des Planeten, um das Verhältnis zwischen Masse und Volumen zu bestimmen."
+  },
+  {
+    "question": "Welchen prozentualen Anteil seiner Masse verliert die Sonne pro Sekunde durch Kernfusion?",
+    "answers": [
+      "Etwa 4 × 10^-10 %",
+      "Etwa 4 × 10^-12 %",
+      "Etwa 4 × 10^-14 %",
+      "Etwa 4 × 10^-16 %"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Die Sonne strahlt etwa 3,8 × 10^26 Watt ab. Mit E = mc² kannst du berechnen, wieviel Masse pro Sekunde in Energie umgewandelt wird. Vergleiche diese dann mit der Gesamtmasse der Sonne (etwa 2 × 10^30 kg)."
+  },
+  {
+    "question": "Wenn die Erde eine perfekte Kugel mit konstanter Dichte wäre, wie würde sich die Gravitation verhalten, wenn man ein Loch zum Mittelpunkt gräbt und hinunterfällt?",
+    "answers": [
+      "Die Gravitation würde konstant bleiben",
+      "Die Gravitation würde exponentiell abnehmen",
+      "Die Gravitation würde zunächst zunehmen und dann schnell auf null fallen",
+      "Die Gravitation würde linear mit der Tiefe abnehmen"
+    ],
+    "correct": [
+      3
+    ],
+    "schwierigkeit": 7,
+    "hint": "Im Inneren einer Kugel mit homogener Dichte trägt nur die Masse unterhalb deiner Position zur Netto-Gravitationskraft bei. Wie verändert sich das Volumen einer Kugel mit dem Radius?"
+  },
+  {
+    "question": "Wie viele Sterne entstehen pro Jahr in der gesamten beobachtbaren Milchstraße?",
+    "answers": [
+      "Etwa 0,7-1,5 Sterne pro Jahr",
+      "Etwa 7-15 Sterne pro Jahr",
+      "Etwa 70-150 Sterne pro Jahr",
+      "Etwa 700-1500 Sterne pro Jahr"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 6,
+    "hint": "Die Sternentstehungsrate in unserer Galaxie wird oft in Sonnenmassen pro Jahr gemessen. Nicht alle neu entstehenden Sterne haben die Masse der Sonne - viele sind kleiner, einige größer."
+  },
+  {
+    "question": "Welcher Planet hat die höchste Oberflächentemperatur in unserem Sonnensystem?",
+    "answers": [
+      "Merkur",
+      "Venus",
+      "Jupiter",
+      "Mars"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 4,
+    "hint": "Obwohl Merkur näher an der Sonne ist, sorgt ein bestimmter atmosphärischer Effekt bei einem anderen Planeten für deutlich höhere Temperaturen."
+  },
+  {
+    "question": "Was ist der Große Rote Fleck auf Jupiter?",
+    "answers": [
+      "Ein gigantischer Vulkan",
+      "Ein permanentes Hochdruckgebiet (Antizyklon)",
+      "Ein riesiger Einschlagkrater",
+      "Eine Region aus flüssiger Lava"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 5,
+    "hint": "Dieses Phänomen ist eines der ältesten bekannten atmosphärischen Merkmale im Sonnensystem und wurde bereits im 17. Jahrhundert beobachtet."
+  },
+  {
+    "question": "Welcher Mond in unserem Sonnensystem besitzt eine dichtere Atmosphäre als der Planet Mars?",
+    "answers": [
+      "Europa (Jupiter)",
+      "Titan (Saturn)",
+      "Triton (Neptun)",
+      "Ganymed (Jupiter)"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 6,
+    "hint": "Dieser größte Mond des Saturn hat eine dicke Stickstoff-Atmosphäre und ist der einzige Mond mit einer substanziellen Atmosphäre und Flüssigkeitsvorkommen auf der Oberfläche."
+  },
+  {
+    "question": "Wo befindet sich der größte bekannte Berg im Sonnensystem?",
+    "answers": [
+      "Auf der Erde (Mount Everest)",
+      "Auf dem Mars (Olympus Mons)",
+      "Auf der Venus (Maxwell Montes)",
+      "Auf dem Jupiter-Mond Io"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 5,
+    "hint": "Dieser Vulkan ist etwa dreimal höher als der Mount Everest und hat einen Durchmesser von über 600 km."
+  },
+  {
+    "question": "Welches Ereignis wird als 'Tunguska-Ereignis' bezeichnet?",
+    "answers": [
+      "Die Entdeckung des ersten Asteroiden im Jahr 1801",
+      "Der Einschlag eines Asteroiden in den Golf von Mexiko, der die Dinosaurier auslöschte",
+      "Eine massive Explosion in Sibirien im Jahr 1908, vermutlich durch einen Asteroiden oder Kometen verursacht",
+      "Der erste erfolgreiche Versuch, einen Asteroiden abzulenken (2022)"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 7,
+    "hint": "Es handelt sich um eine der größten Explosionen in der jüngeren Erdgeschichte, die etwa 2.000 km² Wald zerstörte, aber keinen Einschlagkrater hinterließ."
+  },
+  {
+    "question": "Auf welchem Saturn-Mond hat die NASA-Sonde Cassini kryovulkanische Aktivität entdeckt?",
+    "answers": [
+      "Titan",
+      "Enceladus",
+      "Mimas",
+      "Iapetus"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 7,
+    "hint": "Von diesem relativ kleinen Eismond schießen gewaltige Geysire mit Wasserdampf und organischen Verbindungen ins All, was auf einen unterirdischen Ozean hindeutet."
+  },
+  {
+    "question": "Wie viel Prozent der gesamten Masse des Sonnensystems entfällt auf die Sonne?",
+    "answers": [
+      "Etwa 75%",
+      "Etwa 87%",
+      "Etwa 99,8%",
+      "Etwa 50%"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 5,
+    "hint": "Die Sonne dominiert unser Sonnensystem massiv - alle Planeten, Monde, Asteroiden und Kometen zusammen machen nur einen winzigen Bruchteil der Gesamtmasse aus."
+  },
+  {
+    "question": "In welchem Abstand zur Erde befand sich der erdnächste je entdeckte Asteroid '2020 QG' bei seinem Vorbeiflug im August 2020?",
+    "answers": [
+      "Etwa 400 km",
+      "Etwa 2.950 km",
+      "Etwa 7.000 km",
+      "Etwa 35.000 km"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Dieser kleine Asteroid (etwa 3-6 m Durchmesser) wurde erst nach seinem Vorbeiflug entdeckt und kam der Erdoberfläche näher als viele Kommunikationssatelliten, die sich im geostationären Orbit befinden."
+  },
+  {
+    "question": "Welche Entdeckung machte die OSIRIS-REx-Mission am Asteroiden Bennu?",
+    "answers": [
+      "Sie fand Hinweise auf ein ehemaliges Ringsystem",
+      "Sie entdeckte 14 der 20 für Leben wichtigen Aminosäuren",
+      "Sie bewies die Existenz von Wassereis auf dem Asteroiden",
+      "Sie fand Mikroorganismen in gefrorenem Zustand"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 9,
+    "hint": "Die Mission sammelte Proben von diesem kohlenstoffreichen Asteroiden und fand organische Moleküle, die für die Entstehung von Leben wichtig sein könnten."
+  },
+  {
+    "question": "Wo befindet sich der Asteroidengürtel in unserem Sonnensystem?",
+    "answers": [
+      "Zwischen Merkur und Venus",
+      "Zwischen Erde und Mars",
+      "Zwischen Mars und Jupiter",
+      "Jenseits der Neptunbahn"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 3,
+    "hint": "Dieser Gürtel trennt die inneren erdähnlichen Planeten von den äußeren Gasriesen."
+  },
+  {
+    "question": "Welches ist das TRAPPIST-1-System?",
+    "answers": [
+      "Ein Asteroidenfeld mit besonders metallreichen Objekten",
+      "Ein Sternensystem mit sieben erdgroßen Planeten",
+      "Eine spezielle Methode zur Entdeckung von Exoplaneten",
+      "Eine Gruppe von Kometen mit ähnlicher Zusammensetzung"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 7,
+    "hint": "Dieses System um einen kühlen Zwergstern erhielt große Aufmerksamkeit, weil mehrere seiner Planeten in der habitablen Zone liegen könnten."
+  },
+  {
+    "question": "Was ist die Transit-Methode in der Exoplanetenforschung?",
+    "answers": [
+      "Eine Methode zur Berechnung der Umlaufbahn von Exoplaneten",
+      "Die Entdeckung von Planeten durch Messung ihrer Radialgeschwindigkeit",
+      "Die Beobachtung des Helligkeitsabfalls eines Sterns, wenn ein Planet vor ihm vorbeizieht",
+      "Die direkte Bildgebung von Exoplaneten durch spezielle Teleskope"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 6,
+    "hint": "Diese Methode funktioniert ähnlich wie eine winzige 'Sonnenfinsternis' und wurde vom Kepler-Weltraumteleskop zur Entdeckung tausender Exoplaneten genutzt."
+  },
+  {
+    "question": "Worin besteht der Hauptunterschied zwischen Kometen und Asteroiden?",
+    "answers": [
+      "Kometen bestehen hauptsächlich aus Metall, Asteroiden aus Gestein",
+      "Kometen stammen aus anderen Sonnensystemen, Asteroiden aus unserem",
+      "Kometen bestehen überwiegend aus Eis und gefrorenen Gasen, Asteroiden hauptsächlich aus Gestein und Metall",
+      "Kometen bewegen sich auf kreisförmigen Bahnen, Asteroiden auf elliptischen"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 5,
+    "hint": "Wenn sich einer dieser Himmelskörper der Sonne nähert, bildet er durch Sublimation seines Materials charakteristische Schweife aus Gas und Staub."
+  },
+  {
+    "question": "Welches Ereignis führte 2006 zur Neuklassifizierung des Pluto als Zwergplanet?",
+    "answers": [
+      "Die Entdeckung, dass Pluto einen großen Mond (Charon) hat",
+      "Die Feststellung, dass Pluto kleiner ist als ursprünglich angenommen",
+      "Die Entdeckung weiterer ähnlicher Objekte jenseits der Neptunbahn, insbesondere Eris",
+      "Die Beobachtung, dass Pluto keine stabile Umlaufbahn hat"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 6,
+    "hint": "Die Internationale Astronomische Union (IAU) definierte 2006 erstmals formell, was einen Planeten ausmacht. Eine Anforderung ist, dass er 'seine Umlaufbahn von anderen Objekten freigeräumt hat'."
+  },
+  {
+    "question": "Was ist die 'habitable Zone' um einen Stern?",
+    "answers": [
+      "Der Bereich, in dem unbemannte Raumsonden operieren können",
+      "Der Bereich, in dem flüssiges Wasser auf der Oberfläche eines Planeten existieren kann",
+      "Der Bereich, in dem ein Planet eine Atmosphäre halten kann",
+      "Der Bereich, in dem die UV-Strahlung nicht zu stark für Leben ist"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 5,
+    "hint": "Diese Zone wird auch 'Goldilockszone' genannt, weil die Temperaturen dort weder zu heiß noch zu kalt sind – sondern genau richtig für eine bestimmte, für Leben wichtige Substanz."
+  },
+  {
+    "question": "Welcher ist der einzige Planet im Sonnensystem, der sich rückläufig (retrograd) um seine Achse dreht?",
+    "answers": [
+      "Mars",
+      "Venus",
+      "Uranus",
+      "Neptun"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 6,
+    "hint": "Auf diesem Planeten geht die Sonne im Westen auf und im Osten unter - genau umgekehrt wie auf der Erde."
+  },
+  {
+    "question": "Wie viel Prozent der bisher entdeckten Exoplaneten sind erdähnlich (felsig und von ähnlicher Größe wie die Erde)?",
+    "answers": [
+      "Weniger als 5%",
+      "Etwa 10-15%",
+      "Etwa 25-30%",
+      "Mehr als 50%"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 8,
+    "hint": "Unsere Entdeckungsmethoden bevorzugen große Planeten nahe an ihren Sternen ('heiße Jupiter'). Erdähnliche Planeten sind viel schwieriger zu entdecken, obwohl neuere Missionen wie TESS immer mehr davon finden."
+  },
+  {
+    "question": "Welches besondere Merkmal haben die Trojaner-Asteroiden?",
+    "answers": [
+      "Sie sind besonders metallreich und potenzielle Ziele für zukünftigen Bergbau",
+      "Sie teilen sich die Umlaufbahn mit Jupiter und befinden sich in dessen Lagrange-Punkten L4 und L5",
+      "Sie bewegen sich auf stark elliptischen Bahnen, die die Erdbahn kreuzen",
+      "Sie rotieren besonders schnell um ihre eigene Achse"
+    ],
+    "correct": [
+      1
+    ],
+    "schwierigkeit": 7,
+    "hint": "Diese Asteroiden sind nach Helden des Trojanischen Krieges benannt und befinden sich in gravitativ stabilen Regionen 60° vor und hinter Jupiter."
+  },
+  {
+    "question": "Was ist der Kuipergürtel?",
+    "answers": [
+      "Ein Asteroidengürtel zwischen Mars und Jupiter",
+      "Ein Ring aus Staub und Eis um den Saturn",
+      "Eine Region jenseits der Neptunbahn mit vielen Eiskörpern, darunter auch Pluto",
+      "Ein hypothetischer Gürtel aus Dunkler Materie um unser Sonnensystem"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 6,
+    "hint": "Diese Region erstreckt sich von etwa 30 bis 50 Astronomischen Einheiten von der Sonne und beheimatet viele der sogenannten transneptunischen Objekte."
+  },
+  {
+    "question": "Was ist bei der 'Super-Erde' Gliese 486b besonders interessant für Astronomen?",
+    "answers": [
+      "Sie besitzt einen großen Mond, der selbst potenziell bewohnbar sein könnte",
+      "Sie befindet sich in der habitablen Zone und hat flüssiges Wasser auf der Oberfläche",
+      "Sie ist ein erdähnlicher Planet mit heißer Oberfläche, dessen Atmosphäre mit dem James Webb Teleskop untersuchbar ist",
+      "Sie ist der erdnächste Exoplanet und könnte in ferner Zukunft ein Ziel für interstellare Reisen sein"
+    ],
+    "correct": [
+      2
+    ],
+    "schwierigkeit": 9,
+    "hint": "Dieser 2021 genauer untersuchte Planet ist etwa 26 Lichtjahre entfernt, hat 2,8 Erdmassen und gilt als 'heißer Gesteinsplanet'. Er ist besonders geeignet für die Atmosphärencharakterisierung durch neue Weltraumteleskope."
+  },
+  {
+    "question": "Welche Struktur bildet das Universum im größten Maßstab?",
+    "answers": [
+      "Eine gleichmäßig verteilte Materiewolke",
+      "Ein kosmisches Netz aus Filamenten und Leerräumen",
+      "Konzentrische Sphären unterschiedlicher Dichte",
+      "Eine vollkommen zufällige Verteilung von Galaxien"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Wenn man das Universum im größten beobachtbaren Maßstab betrachtet, bildet die Verteilung der Galaxien und Galaxienhaufen ein charakteristisches dreidimensionales Muster, das einem Spinnennetz oder einem Schwamm ähnelt."
+  },
+  {
+    "question": "Wie groß ist ungefähr der Anteil der 'kosmischen Leere' (Voids) am Gesamtvolumen des Universums?",
+    "answers": [
+      "Etwa 30%",
+      "Etwa 50%",
+      "Etwa 70%",
+      "Etwa 90%"
+    ],
+    "correct": [3],
+    "schwierigkeit": 6,
+    "hint": "Die meisten Galaxien konzentrieren sich in Filamenten und Clustern, während dazwischen riesige, nahezu leere Regionen existieren. Diese leeren Bereiche machen den Großteil des Volumens im Universum aus."
+  },
+  {
+    "question": "Was ist ein Galaxien-Superhaufen?",
+    "answers": [
+      "Eine besonders massenreiche Galaxie mit mindestens 5 Billionen Sternen",
+      "Eine große Ansammlung von Galaxienhaufen, die gravitativ lose miteinander verbunden sind",
+      "Ein Bereich mit besonders hoher Sternentstehungsrate innerhalb einer Galaxie",
+      "Der zentrale Bereich einer Galaxie mit extrem hoher Sternendichte"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese Strukturen gehören zu den größten bekannten Objekten im Universum und erstrecken sich über Dutzende oder Hunderte von Millionen Lichtjahren."
+  },
+  {
+    "question": "In welchem kosmischen Superhaufen befindet sich unsere Milchstraße?",
+    "answers": [
+      "Virgo-Superhaufen",
+      "Laniakea-Superhaufen",
+      "Coma-Superhaufen",
+      "Perseus-Pisces-Superhaufen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieser 2014 definierte Superhaufen umfasst etwa 100.000 Galaxien, verteilt auf mehrere Galaxienhaufen, darunter den Virgo-Cluster. Der Name stammt aus dem Hawaiianischen und bedeutet 'unermesslicher Himmel'."
+  },
+  {
+    "question": "Was ist mit der kosmischen Expansion gemeint?",
+    "answers": [
+      "Die fortschreitende Ausdehnung der Galaxien durch ihre interne Sternentstehung",
+      "Die Zunahme der Anzahl von Galaxien im Universum durch neue Entstehungsprozesse",
+      "Die Zunahme des Abstands zwischen weit entfernten Galaxien aufgrund der Ausdehnung des Raums selbst",
+      "Die Vergrößerung des beobachtbaren Universums durch verbesserte Teleskoptechnologie"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Dieses fundamentale Konzept der modernen Kosmologie beschreibt nicht die Bewegung der Galaxien durch einen fixen Raum, sondern eine grundlegende Eigenschaft der Raumzeit selbst."
+  },
+  {
+    "question": "Wer entdeckte zuerst die systematische Rotverschiebung entfernter Galaxien, die auf die Expansion des Universums hindeutet?",
+    "answers": [
+      "Albert Einstein",
+      "Edwin Hubble",
+      "Georges Lemaître",
+      "Vesto Slipher"
+    ],
+    "correct": [3],
+    "schwierigkeit": 8,
+    "hint": "Dieser amerikanische Astronom fand bereits 1912 die Rotverschiebung des Lichts entfernter Galaxien, lange bevor die kosmische Expansion als Konzept formuliert wurde. Seine Arbeit wurde später von anderen Wissenschaftlern theoretisch interpretiert."
+  },
+  {
+    "question": "Was besagt das Hubble-Lemaître-Gesetz?",
+    "answers": [
+      "Galaxien rotieren mit einer Geschwindigkeit, die proportional zu ihrer Masse ist",
+      "Entfernte Galaxien entfernen sich von uns mit einer Geschwindigkeit, die proportional zu ihrer Entfernung ist",
+      "Die Leuchtkraft einer Galaxie ist proportional zur vierten Potenz ihrer Temperatur",
+      "Die Masse einer Galaxie ist proportional zum Quadrat ihres Durchmessers"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses grundlegende Gesetz der Kosmologie lässt sich mit der Formel v = H₀ × d ausdrücken, wobei v die Fluchtgeschwindigkeit, d die Entfernung und H₀ die Hubble-Konstante ist."
+  },
+  {
+    "question": "Was ist die Dunkle Energie?",
+    "answers": [
+      "Die Energie, die in schwarzen Löchern gespeichert ist",
+      "Eine hypothetische Form von Energie, die etwa 68% des Energiegehalts des Universums ausmacht und seine beschleunigte Expansion verursacht",
+      "Die Energie, die bei der Kollision von Galaxien freigesetzt wird",
+      "Hochenergetische kosmische Strahlung aus dem frühen Universum"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese rätselhafte Komponente wurde postuliert, um die beobachtete beschleunigte Expansion des Universums zu erklären. Sie wirkt der Gravitation entgegen und dominiert heute die Energiedichte des Kosmos."
+  },
+  {
+    "question": "Was versteht man unter dem 'beobachtbaren Universum'?",
+    "answers": [
+      "Den Teil des Universums, der mit aktuellen Teleskopen sichtbar ist",
+      "Den Teil des Universums, der sich innerhalb eines Radius von 93 Milliarden Lichtjahren befindet",
+      "Den Teil des Universums, dessen Licht seit dem Urknall Zeit hatte, uns zu erreichen",
+      "Den Teil des Universums, der nicht von Dunkler Materie verdeckt wird"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Diese Region ist durch einen fundamentalen physikalischen Horizont begrenzt, der durch das Alter des Universums und die Lichtgeschwindigkeit bestimmt wird. Objekte außerhalb dieses Bereichs können prinzipiell nicht beobachtet werden."
+  },
+  {
+    "question": "Was ist die 'lokale Gruppe' in der Astronomie?",
+    "answers": [
+      "Eine Ansammlung von Sternen in der direkten Umgebung der Sonne",
+      "Ein Galaxienhaufen mit etwa 30 Galaxien, zu dem auch die Milchstraße und die Andromeda-Galaxie gehören",
+      "Ein Team von Astronomen, die lokale Himmelsobjekte erforschen",
+      "Die Planeten unseres Sonnensystems und ihre Monde"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Diese gravitativ gebundene Ansammlung von Galaxien erstreckt sich über etwa 10 Millionen Lichtjahre und wird von zwei großen Spiralgalaxien dominiert."
+  },
+  {
+    "question": "Welche Aussage zur Verteilung der Galaxien im Universum ist korrekt?",
+    "answers": [
+      "Galaxien sind gleichmäßig im Raum verteilt",
+      "Galaxien kommen ausschließlich in dichten Haufen vor",
+      "Galaxien bilden filamentartige Strukturen, die riesige, nahezu leere Räume umschließen",
+      "Galaxien kommen nur am Rand des Universums vor"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Die großräumige Struktur des Universums wird oft mit einem Schwamm oder einem kosmischen Netz verglichen, wobei die Materie nicht gleichmäßig verteilt ist, sondern spezifische Muster bildet."
+  },
+  {
+    "question": "Was besagt die 'kosmische Inflation'?",
+    "answers": [
+      "Die kontinuierliche Entstehung neuer Galaxien im Universum",
+      "Die Zunahme der Durchschnittstemperatur des Universums",
+      "Eine Phase extrem schneller exponentieller Expansion des Universums kurz nach dem Urknall",
+      "Die Zunahme der Materiedichte im Universum mit der Zeit"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Diese Theorie wurde in den 1980er Jahren entwickelt, um mehrere Probleme des Standardmodells des Urknalls zu lösen, darunter das Horizontproblem und das Flachheitsproblem."
+  },
+  {
+    "question": "Welche Beobachtung führte zur Entdeckung der beschleunigten Expansion des Universums?",
+    "answers": [
+      "Die Messung der kosmischen Hintergrundstrahlung",
+      "Die Beobachtung weit entfernter Supernovae vom Typ Ia",
+      "Die Rotationsgeschwindigkeit von Galaxien",
+      "Die chemische Zusammensetzung intergalaktischen Gases"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Für diese bahnbrechende Entdeckung im Jahr 1998 erhielten Saul Perlmutter, Brian Schmidt und Adam Riess 2011 den Nobelpreis für Physik. Sie beobachteten, dass bestimmte Standardkerzen im All weiter entfernt waren als erwartet."
+  },
+  {
+    "question": "Was sind Baryonen in der Kosmologie?",
+    "answers": [
+      "Hypothetische Teilchen, die Dunkle Materie bilden",
+      "Gewöhnliche Materie, bestehend aus Protonen, Neutronen und Elektronen",
+      "Teilchen, die ausschließlich in Neutronensternen vorkommen",
+      "Die Grundbausteine der Dunklen Energie"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "In der Kosmologie bezeichnet dieser Begriff die 'normale' Materie, aus der Sterne, Planeten und wir selbst bestehen. Interessanterweise macht diese Art von Materie nur etwa 5% des Energiegehalts des Universums aus."
+  },
+  {
+    "question": "Was ist die kosmische Hintergrundstrahlung (CMB)?",
+    "answers": [
+      "Strahlung, die von allen Galaxien zusammen ausgesendet wird",
+      "Thermische Reststrahlung aus der Zeit etwa 380.000 Jahre nach dem Urknall",
+      "Strahlung, die durch die Fusion in Sternen entsteht",
+      "Hochenergetische Strahlung aus dem Zentrum unserer Galaxie"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese Mikrowellenstrahlung wurde 1964 zufällig entdeckt und stellt ein 'Foto' des frühen Universums dar, als es kühl genug wurde, dass sich Elektronen mit Atomkernen verbinden konnten."
+  },
+  {
+    "question": "Was versteht man unter Baryonischer Akustischer Oszillation (BAO)?",
+    "answers": [
+      "Schallwellen im frühen Universum, die charakteristische Dichtefluktuationen hinterließen",
+      "Die Schwingung von Galaxien in Galaxienhaufen",
+      "Die Oszillation von Neutronensternen nach Supernova-Explosionen",
+      "Veränderungen in der Rotationsgeschwindigkeit von Galaxien"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Diese 'eingefrorenen' Wellen aus dem frühen Universum hinterließen ein charakteristisches Muster in der Verteilung von Galaxien, das heute als kosmologisches Standardlineal verwendet wird."
+  },
+  {
+    "question": "Welcher Prozess dominiert das frühe Universum nach der Inflation?",
+    "answers": [
+      "Die Entstehung der ersten Sterne (Stellare Nukleosynthese)",
+      "Die Bildung von Planetensystemen",
+      "Die Nukleosynthese leichter Elemente (primordiale Nukleosynthese)",
+      "Die Bildung supermassiver Schwarzer Löcher"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "In dieser Phase, die wenige Minuten nach dem Urknall stattfand, entstanden die ersten Atomkerne wie Deuterium, Helium und Lithium. Der Großteil des Wasserstoffs und Heliums im heutigen Universum stammt aus dieser Zeit."
+  },
+  {
+    "question": "Was besagt die Hubble-Spannung in der modernen Kosmologie?",
+    "answers": [
+      "Es gibt eine Diskrepanz zwischen verschiedenen Messungen der Hubble-Konstante",
+      "Das Universum steht unter einer konstanten Spannung durch Dunkle Energie",
+      "Die Gravitationskraft zwischen Galaxien nimmt mit der Zeit ab",
+      "Die kosmische Expansion wird sich irgendwann umkehren"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Dieses aktuelle Problem der Kosmologie bezieht sich auf die unterschiedlichen Werte für die Expansionsrate des Universums, je nachdem, ob man das frühe Universum (CMB) oder das lokale Universum (Supernovae) betrachtet."
+  },
+  {
+    "question": "Welches kosmologische Modell beschreibt das aktuelle Standardmodell der Kosmologie?",
+    "answers": [
+      "Steady-State-Modell",
+      "Einstein-de-Sitter-Modell",
+      "Lambda-CDM-Modell",
+      "Oszillierendes Universum"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Dieses Modell beinhaltet sowohl die Dunkle Energie (Lambda) als auch Kalte Dunkle Materie (CDM) und erklärt erfolgreich viele Beobachtungen, von der kosmischen Hintergrundstrahlung bis zur Struktur von Galaxienhaufen."
+  },
+  {
+    "question": "Woraus bestehen die Filamente der kosmischen Struktur hauptsächlich?",
+    "answers": [
+      "Aus intergalaktischem Gas und Staub",
+      "Aus Dunkler Materie mit eingebetteten Galaxien",
+      "Aus supermassiven Schwarzen Löchern",
+      "Aus Wasserstoffwolken, die noch keine Sterne gebildet haben"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese Strukturen werden primär durch die Gravitationswirkung einer unsichtbaren Komponente gebildet, die sich nur durch ihre Schwerkraft bemerkbar macht. Galaxien folgen diesen unsichtbaren 'Autobahnen' im Kosmos."
+  },
+  {
+    "question": "Was bedeutet es, wenn Kosmologen sagen, dass das Universum 'flach' ist?",
+    "answers": [
+      "Das Universum ist zweidimensional wie eine Scheibe",
+      "Das Universum hat im Durchschnitt die kritische Dichte und seine Geometrie folgt der euklidischen Geometrie",
+      "Das Universum wird irgendwann kollabieren und 'flach' werden",
+      "Die Galaxien sind gleichmäßig in einer flachen Ebene verteilt"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese Eigenschaft der Raumzeit bezieht sich auf ihre globale geometrische Struktur und hat Auswirkungen darauf, ob Lichtstrahlen parallel bleiben oder konvergieren bzw. divergieren."
+  },
+  {
+    "question": "Was ist ein 'Superhorizont' in der Kosmologie?",
+    "answers": [
+      "Die Grenze des beobachtbaren Universums",
+      "Der Punkt, an dem sich Galaxien schneller als das Licht von uns entfernen",
+      "Eine Region, die größer ist als der kausale Horizont zur Zeit der Inflation",
+      "Der Ort, an dem die Dunkle Energie dominiert"
+    ],
+    "correct": [2],
+    "schwierigkeit": 10,
+    "hint": "Dieses Konzept ist wichtig für die Inflationstheorie und erklärt, wie Regionen des Universums, die heute kausal nicht verbunden sein könnten, trotzdem ähnliche Eigenschaften haben."
+  },
+  {
+    "question": "Was ist die Hauptursache für die große Ähnlichkeit der kosmischen Hintergrundstrahlung in verschiedenen Himmelsrichtungen?",
+    "answers": [
+      "Die Gleichverteilung der Materie im frühen Universum",
+      "Die hohe Temperatur des frühen Universums",
+      "Die kosmische Inflation, die ursprünglich winzige Regionen auf kosmologische Größen ausdehnte",
+      "Die Homogenisierung durch Strahlungsdruck"
+    ],
+    "correct": [2],
+    "schwierigkeit": 9,
+    "hint": "Diese beobachtete Isotropie stellt ein Rätsel dar, da entgegengesetzte Bereiche des Himmels eigentlich nie in kausalem Kontakt gestanden haben sollten - es sei denn, eine bestimmte frühe Phase der kosmischen Evolution fand statt."
+  },
+  {
+    "question": "Welcher Effekt verursacht, dass Galaxienhaufen als Gravitationslinsen fungieren?",
+    "answers": [
+      "Die Massendichte der Galaxien verzerrt die Raumzeit und lenkt Lichtstrahlen ab",
+      "Die hohe Temperatur des intergalaktischen Gases bricht Lichtstrahlen wie ein Prisma",
+      "Die starken Magnetfelder zwischen den Galaxien lenken Photonen ab",
+      "Die Rotation der Galaxien erzeugt einen Doppler-Effekt, der das Licht ablenkt"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Dieser von Einstein vorhergesagte Effekt beruht auf der Krümmung der Raumzeit durch Masse und wurde erstmals während einer Sonnenfinsternis 1919 beobachtet, was zur Bestätigung der Allgemeinen Relativitätstheorie beitrug."
+  },
+  {
+    "question": "Welche Rolle spielt die Dunkle Materie bei der Strukturbildung im Universum?",
+    "answers": [
+      "Sie verhindert die Bildung von Galaxien durch ihre abstoßende Kraft",
+      "Sie bildet das Grundgerüst, in dem sich später sichtbare Materie ansammelt",
+      "Sie verursacht die Expansion des Universums",
+      "Sie sorgt für die gleichmäßige Verteilung der Galaxien"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Computermodelle zeigen, dass ohne diese unsichtbare Komponente die beobachteten großskaligen Strukturen nicht in der verfügbaren Zeit seit dem Urknall hätten entstehen können."
+  },
+  {
+    "question": "Was ist der 'Große Attraktor'?",
+    "answers": [
+      "Ein hypothetisches supermassives Schwarzes Loch im Zentrum unserer Galaxie",
+      "Eine riesige Konzentration von Galaxienhaufen, zu der sich unsere lokale Gruppe hinbewegt",
+      "Ein massiver Planet am Rand unseres Sonnensystems",
+      "Der Bereich mit der höchsten Dichte an Dunkler Energie"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese massive Gravitationsanomalie beeinflusst die Bewegung zahlreicher Galaxien in unserer kosmischen Nachbarschaft und liegt etwa 150-250 Millionen Lichtjahre entfernt."
+  },
+  {
+    "question": "Welches astronomische Phänomen führt zum Leuchten der Polarnacht (Aurora)?",
+    "answers": [
+      "Die Reflektion des Mondlichts auf Schneeflächen",
+      "Wechselwirkungen zwischen dem Sonnenwind und dem Erdmagnetfeld",
+      "Atmosphärische Gasentladungen durch hohen Luftdruck",
+      "Das Verbrennen von Meteoritenstaub in der oberen Atmosphäre"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Dieses spektakuläre Farbenspiel entsteht, wenn geladene Teilchen von der Sonne auf die obere Erdatmosphäre treffen und dabei mit den dortigen Gasmolekülen interagieren."
+  },
+  {
+    "question": "Was ist ein stellarer Schwarzkörperstrahler?",
+    "answers": [
+      "Ein Stern, der kein sichtbares Licht ausstrahlt",
+      "Eine hypothetische Strahlungsquelle, die alle auftreffende Strahlung vollständig absorbiert und entsprechend seiner Temperatur emittiert",
+      "Ein spezieller Typ von Schwarzen Löchern mit Sternenresten",
+      "Ein Stern im letzten Stadium seines Lebenszyklus"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieses physikalische Konzept ist eine idealisierte Annahme, die für die Analyse von Sternen verwendet wird. Die Strahlungsverteilung hängt dabei nur von der Temperatur ab."
+  },
+  {
+    "question": "Was verursacht das interstellare Extinktionsphänomen?",
+    "answers": [
+      "Die Absorption und Streuung von Licht durch interstellaren Staub und Gas",
+      "Eine natürliche Abnahme der Lichtintensität mit zunehmender Entfernung",
+      "Die Rotverschiebung durch die kosmische Expansion",
+      "Die Beugung des Lichts durch Gravitationslinseneffekte"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Dieses Phänomen macht Sterne ferner erscheinen und röter, als sie tatsächlich sind, und stellt eine wichtige Korrektur bei astronomischen Messungen dar."
+  },
+  {
+    "question": "Welches Teleskop hat die erste direkte Beobachtung eines Schwarzen Lochs (genauer: seines Schattens) im Jahr 2019 ermöglicht?",
+    "answers": [
+      "Das Hubble-Weltraumteleskop",
+      "Das James Webb-Weltraumteleskop",
+      "Das Event Horizon Telescope",
+      "Das Very Large Telescope (VLT)"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Dieses 'Teleskop' ist eigentlich ein weltweites Netzwerk von Radioteleskopen, die zusammengeschaltet wurden, um eine extrem hohe Auflösung zu erreichen - vergleichbar mit einem Teleskop von der Größe der Erde."
+  },
+  {
+    "question": "Welcher Spektralklasse gehört unsere Sonne an?",
+    "answers": [
+      "Spektralklasse A (weiß)",
+      "Spektralklasse G (gelb)",
+      "Spektralklasse K (orange)",
+      "Spektralklasse M (rot)"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Die Spektralklassen werden mit den Buchstaben O, B, A, F, G, K, M bezeichnet (von heiß nach kalt). Unsere Sonne ist ein relativ durchschnittlicher Stern mit einer Oberflächentemperatur von etwa 5.500°C."
+  },
+  {
+    "question": "Was ist der Ursprung der chemischen Elemente schwerer als Eisen im Universum?",
+    "answers": [
+      "Sie entstehen hauptsächlich durch Kernfusion in normalen Sternen",
+      "Sie werden in Neutronensternkollisionen und Supernovae durch Neutroneneinfang erzeugt",
+      "Sie waren bereits nach dem Urknall vorhanden",
+      "Sie bilden sich durch Kernspaltung in alternden Roten Riesen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Die Fusion von Elementen bis zu Eisen setzt Energie frei, aber für schwerere Elemente wird Energie benötigt. Diese entsteht bei bestimmten energiereichen astronomischen Ereignissen."
+  },
+  {
+    "question": "Was misst die Kardashev-Skala?",
+    "answers": [
+      "Die Habitabilität von Exoplaneten",
+      "Den technologischen Entwicklungsgrad einer Zivilisation basierend auf ihrem Energieverbrauch",
+      "Die Oberflächengravitation von Neutronensternen",
+      "Die Dichte von Galaxienhaufen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese spekulative Skala wurde 1964 vom sowjetischen Astronomen Nikolai Kardashev entwickelt und klassifiziert Zivilisationen in Typen I, II und III, je nachdem, welchen Anteil der Energie ihres Planeten, ihrer Sonne oder ihrer Galaxie sie nutzen können."
+  },
+  {
+    "question": "Welche Mission lieferte 2015 die ersten detaillierten Bilder des Zwergplaneten Pluto?",
+    "answers": [
+      "Cassini-Huygens",
+      "Voyager 2",
+      "New Horizons",
+      "Juno"
+    ],
+    "correct": [2],
+    "schwierigkeit": 4,
+    "hint": "Diese NASA-Sonde wurde 2006 gestartet und flog nach einer Reise von etwa 9,5 Jahren am Pluto vorbei. Sie setzt ihre Mission fort und untersucht nun Objekte im Kuipergürtel."
+  },
+  {
+    "question": "Was ist das Besondere an Pulsaren?",
+    "answers": [
+      "Sie sind extragalaktische Quasare mit extremer Leuchtkraft",
+      "Sie sind rotierende Neutronensterne, die regelmäßige Strahlungspulse aussenden",
+      "Sie sind binäre Sternsysteme, die sich periodisch gegenseitig verdunkeln",
+      "Sie sind Sterne, die kurz vor einer Supernova-Explosion stehen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese astronomischen Objekte wurden 1967 von Jocelyn Bell Burnell entdeckt und senden Radiowellen in so regelmäßigen Intervallen aus, dass sie zunächst für mögliche Signale außerirdischer Intelligenz gehalten wurden."
+  },
+  {
+    "question": "Was würde geschehen, wenn man versuchen würde, auf einem Gasriesen wie Jupiter zu landen?",
+    "answers": [
+      "Man würde auf einer festen Oberfläche unter den Wolken landen",
+      "Man würde durch immer dichter werdende Gasschichten sinken, bis die Druckverhältnisse das Raumschiff zerquetschen würden",
+      "Man würde auf einer Schicht aus metallischem Wasserstoff landen",
+      "Man würde von den starken Magnetfeldern abgelenkt werden und könnte nicht eindringen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Gasriesen wie Jupiter haben keine feste Oberfläche im herkömmlichen Sinne. Stattdessen werden Gas und Druck mit zunehmender Tiefe immer extremer."
+  },
+  {
+    "question": "Was versteht man unter dem Begriff 'Stellare Population' in der Astronomie?",
+    "answers": [
+      "Die Anzahl der Sterne in einer Galaxie",
+      "Die Klassifizierung von Sternen nach ihrer chemischen Zusammensetzung und ihrem Alter",
+      "Die Dichte von Sternen pro Kubiklichtjahr",
+      "Die Einteilung von Sternen nach ihrer Position im Hertzsprung-Russell-Diagramm"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Astronomen unterscheiden typischerweise zwischen Population I (jüngere, metallreiche Sterne wie unsere Sonne) und Population II (ältere, metallarme Sterne in Kugelsternhaufen und im galaktischen Halo)."
+  },
+  {
+    "question": "Was ist die Chandrasekhar-Grenze und welche Bedeutung hat sie?",
+    "answers": [
+      "Sie beschreibt den minimalen Abstand, den ein Stern zur Erde haben muss, um beobachtet zu werden",
+      "Sie gibt den maximalen Durchmesser eines stabilen Neutronensterns an",
+      "Sie bezeichnet die maximale Masse eines Weißen Zwergs (etwa 1,4 Sonnenmassen), oberhalb derer er kollabiert",
+      "Sie definiert die Grenze zwischen Hauptreihensternen und Roten Riesen"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese nach dem indischen Astrophysiker Subrahmanyan Chandrasekhar benannte Grenze hat entscheidende Bedeutung für das Schicksal von Sternen am Ende ihres Lebenszyklus und für die Entstehung von Supernovae vom Typ Ia."
+  },
+  {
+    "question": "Was verursacht die charakteristischen Ringe des Saturn?",
+    "answers": [
+      "Eispartikel und Gesteinsbrocken, die den Planeten umkreisen",
+      "Gaswolken, die durch die schnelle Rotation des Planeten abgeflacht wurden",
+      "Ein elektromagnetisches Phänomen durch die Wechselwirkung mit den Saturnmonden",
+      "Überreste eines zerbrochenen Mondes, der vor Milliarden Jahren zerstört wurde"
+    ],
+    "correct": [0],
+    "schwierigkeit": 4,
+    "hint": "Diese spektakuläre Struktur besteht hauptsächlich aus Partikeln mit Durchmessern von wenigen Mikrometern bis zu mehreren Metern und ist trotz ihrer enormen Ausdehnung erstaunlich dünn - nur etwa 10 bis 100 Meter."
+  },
+  {
+    "question": "Was ist das Olbers'sche Paradoxon?",
+    "answers": [
+      "Die scheinbar widersprüchliche Beobachtung, dass Objekte im Sonnensystem sich scheinbar rückwärts bewegen können",
+      "Der Widerspruch zwischen der Quantenmechanik und der Allgemeinen Relativitätstheorie",
+      "Die Frage, warum der Nachthimmel dunkel ist, wenn das Universum unendlich viele Sterne enthält",
+      "Das Problem, dass die beobachtbare Materie im Universum nicht ausreicht, um die Gravitationswirkungen zu erklären"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieses nach Heinrich Wilhelm Olbers benannte Paradoxon fragte: Wenn das Universum unendlich groß und ewig wäre und gleichmäßig mit Sternen gefüllt, müsste jede Sichtlinie irgendwann auf einen Stern treffen und der gesamte Himmel so hell wie die Sonnenoberfläche sein."
+  },
+  {
+    "question": "Was ist ein Gravitationswellendetektor wie LIGO?",
+    "answers": [
+      "Ein Gerät zur Messung der Gravitationskraft auf der Erdoberfläche",
+      "Ein Instrument, das Variationen im Gravitationsfeld von Planeten misst",
+      "Ein hochpräzises Interferometer, das winzige Verzerrungen der Raumzeit durch vorbeiziehende Gravitationswellen nachweist",
+      "Ein Satellit, der die Gravitationsfelder von Schwarzen Löchern kartiert"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese Instrumente können Änderungen in der Raumzeit messen, die kleiner sind als der Durchmesser eines Protons. Der erste direkte Nachweis von Gravitationswellen im Jahr 2015 bestätigte eine zentrale Vorhersage von Einsteins Allgemeiner Relativitätstheorie."
+  },
+  {
+    "question": "Was ist die 'Kosmische Hintergrundstrahlung' (CMB) und warum ist sie wichtig?",
+    "answers": [
+      "Elektromagnetische Strahlung aus dem frühen Universum, die wichtige Hinweise auf den Urknall und die Struktur des Kosmos liefert",
+      "Die natürliche Radioaktivität des Weltraums, die Raumfahrten gefährlich macht",
+      "Die Restemission aller Sterne im Universum",
+      "Strahlung, die von der Milchstraße ausgeht und den Nachthimmel erhellt"
+    ],
+    "correct": [0],
+    "schwierigkeit": 5,
+    "hint": "Diese Mikrowellenstrahlung wurde 1964 zufällig von Arno Penzias und Robert Wilson entdeckt und stellt ein 'Echo' des Urknalls dar, entstanden etwa 380.000 Jahre nach dem Beginn des Universums."
+  },
+  {
+    "question": "Was ist ein Gamma Ray Burst (GRB) und was verursacht ihn?",
+    "answers": [
+      "Ein kurzer Ausbruch radioaktiver Strahlung von der Sonne",
+      "Die energiereichsten beobachteten Explosionen im Universum, verursacht durch Hypernovae oder verschmelzende Neutronensterne",
+      "Die Strahlung, die entsteht, wenn Materie in ein Schwarzes Loch fällt",
+      "Ein künstliches Signal, das zur Kommunikation mit Raumsonden verwendet wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese gewaltigen Ausbrüche können in wenigen Sekunden mehr Energie freisetzen als unsere Sonne in ihrer gesamten Lebensdauer. Sie wurden ursprünglich von Satelliten entdeckt, die nach nuklearen Tests Ausschau hielten."
+  },
+  {
+    "question": "Wie wird die 'Effektive Temperatur' eines Sterns definiert?",
+    "answers": [
+      "Als die durchschnittliche Temperatur über die gesamte Lebensdauer des Sterns",
+      "Als die Temperatur, die ein Schwarzkörper gleicher Größe haben müsste, um dieselbe Gesamtstrahlungsleistung abzugeben",
+      "Als die Temperatur im Zentrum des Sterns, wo die Kernfusion stattfindet",
+      "Als die niedrigste Temperatur an der Oberfläche des Sterns"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese Temperatur lässt sich aus dem Spektrum des Sterns ableiten und erlaubt Rückschlüsse auf seine Farbe. Für die Sonne beträgt sie etwa 5.778 Kelvin."
+  },
+  {
+    "question": "Was zeigt das Hertzsprung-Russell-Diagramm?",
+    "answers": [
+      "Die Verteilung von Galaxien im Universum",
+      "Die Beziehung zwischen der absoluten Helligkeit (Leuchtkraft) und der Spektralklasse (effektiven Temperatur) von Sternen",
+      "Die chemische Zusammensetzung verschiedener Sterntypen",
+      "Die zeitliche Entwicklung von Supernovae"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses fundamentale Diagramm in der Stellarastrophysik zeigt, dass die meisten Sterne auf einer diagonalen Linie liegen (der 'Hauptreihe'), während andere Gruppen wie Rote Riesen, Überriesen oder Weiße Zwerge in bestimmten Bereichen des Diagramms konzentriert sind."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen einer elliptischen und einer Spiralgalaxie?",
+    "answers": [
+      "Elliptische Galaxien drehen sich, Spiralgalaxien nicht",
+      "Spiralgalaxien haben ein zentrales Schwarzes Loch, elliptische nicht",
+      "Elliptische Galaxien enthalten hauptsächlich alte Sterne und wenig Gas und Staub, während Spiralgalaxien ausgeprägte Spiralarme mit aktiver Sternentstehung haben",
+      "Elliptische Galaxien befinden sich nur im frühen Universum, Spiralgalaxien nur im späten Universum"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Diese beiden Haupttypen von Galaxien unterscheiden sich in ihrer Form, Zusammensetzung und Aktivität. Unsere Milchstraße gehört zu einem dieser beiden Typen."
+  },
+  {
+    "question": "Warum erscheint der Mond am Horizont größer als hoch am Himmel, obwohl er tatsächlich fast genau gleich groß ist?",
+    "answers": [
+      "Wegen atmosphärischer Brechungseffekte",
+      "Durch eine optische Täuschung, bekannt als 'Mondtäuschung'",
+      "Weil der Mond am Horizont näher an der Erde ist",
+      "Weil das menschliche Auge bei Nacht anders fokussiert"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Dieses Phänomen ist eine der bekanntesten optischen Täuschungen und beruht auf der Art und Weise, wie unser Gehirn Größen in Relation zur Umgebung interpretiert."
+  },
+  {
+    "question": "Was ist das Besondere an 'Interstellar Medium' (ISM)?",
+    "answers": [
+      "Es ist ein hypothetisches Medium, das Überlichtgeschwindigkeit ermöglicht",
+      "Es ist der fast leere Raum zwischen den Sternen, der dennoch Gas, Staub und Strahlung enthält",
+      "Es ist eine spezielle Art von Treibstoff für interstellare Raumschiffe",
+      "Es ist ein mathematisches Modell zur Berechnung interstellarer Entfernungen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Obwohl extrem dünn (typischerweise nur ein Atom pro Kubikzentimeter), spielt dieses Material eine entscheidende Rolle bei der Entstehung neuer Sterne und ist für viele optische Phänomene im Weltraum verantwortlich."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen Absolutmagnitude und scheinbarer Helligkeit eines Sterns?",
+    "answers": [
+      "Die scheinbare Helligkeit ist immer größer als die Absolutmagnitude",
+      "Die Absolutmagnitude gibt an, wie hell ein Stern aus einer standardisierten Entfernung von 10 Parsec erscheinen würde, während die scheinbare Helligkeit die tatsächlich beobachtete Helligkeit ist",
+      "Die Absolutmagnitude bezieht sich auf die Helligkeit im sichtbaren Licht, die scheinbare Helligkeit auf die Gesamtstrahlung",
+      "Die scheinbare Helligkeit wird von der Erde aus gemessen, die Absolutmagnitude von Weltraumteleskopen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese beiden Maße erlauben es Astronomen, zwischen intrinsisch hellen Sternen und solchen zu unterscheiden, die nur aufgrund ihrer Nähe hell erscheinen. Ein negativer Wert bedeutet dabei einen helleren Stern."
+  },
+  {
+    "question": "Was ist das 'Oh-My-God-Teilchen' und warum ist es bemerkenswert?",
+    "answers": [
+      "Das erste direkt nachgewiesene Higgs-Boson",
+      "Ein hypothetisches Teilchen, das schneller als Licht reisen könnte",
+      "Ein kosmisches Strahlungsproton mit extrem hoher Energie, das 1991 detektiert wurde",
+      "Ein Teilchen aus einer Supernova, das die Erde direkt getroffen hat"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Dieses einzelne subatomare Teilchen hatte so viel Energie wie ein Tennisball, der mit etwa 100 km/h fliegt - konzentriert in einem einzigen Proton. Seine Herkunft und der Beschleunigungsmechanismus stellen Physiker vor Rätsel."
+  },
+  {
+    "question": "Was ist ein 'Bolometer' in der Astronomie?",
+    "answers": [
+      "Ein Instrument zur Messung der Masse von Sternen",
+      "Ein hochempfindliches Gerät zur Messung elektromagnetischer Strahlung (Wärmestrahlung)",
+      "Ein Spektroskop zur Analyse der chemischen Zusammensetzung von Himmelskörpern",
+      "Ein Gerät zur Messung der Bewegung von Galaxien"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese Messgeräte werden besonders häufig im Infrarot- und Submillimeterbereich eingesetzt und sind wichtig für die Beobachtung kalter Objekte wie Staubwolken oder ferner Galaxien."
+  },
+  {
+    "question": "Welcher Himmelskörper in unserem Sonnensystem hat die höchste Albedo (Rückstrahlvermögen)?",
+    "answers": [
+      "Der Mond",
+      "Venus",
+      "Enceladus (Saturnmond)",
+      "Jupiter"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieser kleine Eismond reflektiert etwa 99% des einfallenden Sonnenlichts, was ihn zum reflektierendsten natürlichen Körper im Sonnensystem macht. Seine Oberfläche besteht fast vollständig aus frischem Wassereis."
+  },
+  {
+    "question": "Was ist der Van-Allen-Strahlungsgürtel?",
+    "answers": [
+      "Ein Asteroidengürtel am Rand des Sonnensystems",
+      "Eine Region erhöhter Strahlung um die Venus",
+      "Bereiche geladener Teilchen, die vom Erdmagnetfeld eingefangen werden",
+      "Der äußere Bereich der Sonnenatmosphäre"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Diese Region stellt eine Herausforderung für die bemannte Raumfahrt und Satelliten dar, da die dort gefangenen hochenergetischen Teilchen elektronische Komponenten beschädigen können."
+  },
+  {
+    "question": "Was versteht man in der Astronomie unter dem Begriff 'Skaphe'?",
+    "answers": [
+      "Eine antike Sonnenuhr, die Zeit durch den Schattenwurf eines Stabes in einer hohlen Halbkugel anzeigt",
+      "Ein spezielles Teleskop zur Beobachtung der Sonnenkorona",
+      "Ein früher Name für die Konstellation des Großen Bären",
+      "Ein theoretisches Modell zur Berechnung von Planetenumlaufbahnen"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Dieses einfache astronomische Instrument wurde bereits im antiken Griechenland verwendet und ist ein Vorläufer moderner Sonnenuhren. Der Name leitet sich vom griechischen Wort für 'Boot' oder 'Schale' ab."
+  },
+  {
+    "question": "Was ist ein 'Analemma' in der Astronomie?",
+    "answers": [
+      "Ein Sternhaufen mit symmetrischer Struktur",
+      "Die scheinbare Bahn eines Mondes um seinen Planeten",
+      "Die Figur in Form einer 8, die die Position der Sonne am Himmel zur gleichen Uhrzeit über ein Jahr beschreibt",
+      "Ein mathematisches Modell zur Beschreibung von Planetenbahnen"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Dieses Phänomen entsteht durch die Kombination zweier Faktoren: der Neigung der Erdachse und der elliptischen (nicht kreisförmigen) Bahn der Erde um die Sonne."
+  },
+  {
+    "question": "Was versteht man unter 'Stellarer Nukleosynthese'?",
+    "answers": [
+      "Die künstliche Erzeugung von Sternen im Labor",
+      "Die Entstehung von Sternen aus interstellaren Gaswolken",
+      "Die Bildung chemischer Elemente durch Kernfusionsreaktionen in Sternen",
+      "Die Energiegewinnung durch Kernspaltung in stellaren Kernkraftwerken"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieser Prozess erklärt, woher die Elemente im Universum stammen. Während der Urknall hauptsächlich Wasserstoff und Helium produzierte, sind die schwereren Elemente in Sternen entstanden."
+  },
+  {
+    "question": "Wodurch unterscheiden sich Keplersches und Newtonsches Teleskop?",
+    "answers": [
+      "Keplersche Teleskope verwenden Linsen, Newtonsche Teleskope Spiegel",
+      "Keplersche Teleskope sind für terrestrische Beobachtungen optimiert, Newtonsche für astronomische",
+      "Keplersche Teleskope sind transportabel, Newtonsche fest montiert",
+      "Keplersche Teleskope wurden im 17. Jahrhundert verwendet, Newtonsche sind eine moderne Entwicklung"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Diese beiden frühen Teleskopdesigns unterscheiden sich grundlegend in ihrer optischen Funktionsweise. Das eine leidet unter chromatischer Aberration, das andere nicht."
+  },
+  {
+    "question": "Was ist die 'Habitabilitätszone' oder 'habitable Zone' eines Sterns?",
+    "answers": [
+      "Der Bereich im Weltraum, in dem Menschen ohne Schutzanzug überleben könnten",
+      "Der Bereich um einen Stern, in dem flüssiges Wasser auf der Oberfläche eines erdähnlichen Planeten existieren könnte",
+      "Die Region eines Sterns, in der Kernfusion stattfindet",
+      "Die maximale Entfernung, in der ein Planet noch von einem Stern erhellt wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese Zone wird auch als 'Goldlöckchen-Zone' bezeichnet, weil die Bedingungen dort 'genau richtig' sind - nicht zu heiß und nicht zu kalt für eine bestimmte, für Leben (wie wir es kennen) essentielle Substanz."
+  },
+  {
+    "question": "Was ist der Saros-Zyklus?",
+    "answers": [
+      "Die Periodizität der Sonnenfleckenaktivität",
+      "Ein 18-jähriger Zyklus, nach dem sich Sonnen- und Mondfinsternisse in ähnlicher Weise wiederholen",
+      "Die Rotation der Milchstraße um ihr galaktisches Zentrum",
+      "Die Zeit, die das Sonnensystem benötigt, um das Zentrum der Milchstraße zu umkreisen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieser bereits von den Babyloniern entdeckte Zyklus beruht auf dem Zusammenspiel mehrerer astronomischer Perioden und erlaubt die Vorhersage von Finsternissen mit bemerkenswerter Genauigkeit."
+  }
+]

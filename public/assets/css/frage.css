@@ -1,0 +1,80 @@
+@import './answers.css';
+
+.container {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.containerDifficulty {
+    text-align: center;
+}
+
+.containerDifficulty div[type="h2"] {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.containerDifficulty {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+
+    .difficultyPointFilled {
+        color: #4caf50;
+        /* Grüner Punkt für gefüllte Schwierigkeit */
+        font-size: 24px;
+        margin: 0 2px;
+    }
+
+    .difficultyPointEmpty {
+        color: #ccc;
+        /* Grauer Punkt für leere Schwierigkeit */
+        font-size: 24px;
+        margin: 0 2px;
+    }
+}
+
+.containerHint {
+    transition: all 300ms linear;
+
+    h3 {
+        position: relative;
+        cursor: pointer;
+
+        .indicatorOpened {
+            position: relative;
+            display: inline-block;
+        }
+    }
+
+    h3:hover {
+        color: #f00;
+    }
+
+    .indicatorOpened {}
+
+    .innerHint {
+        position: relative;
+        height: 0px;
+        overflow: hidden;
+    }
+}
+
+.containerHint.opened {
+    .indicatorOpened {
+        transform: rotate(90deg);
+    }
+    .innerHint {
+        height: 100px;
+    }
+
+
+
+}

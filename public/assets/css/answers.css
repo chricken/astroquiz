@@ -1,0 +1,43 @@
+.containerAnswer {
+    position: relative;
+    cursor: pointer;
+    margin: 10px;
+    border-left: 5px solid rgba(0, 0, 0, .2);
+    padding: 5px;
+}
+
+.containerAnswer.correct:hover,
+.containerAnswer.correct {
+    color: #fff;
+    background-color: rgb(160, 208, 119);
+}
+
+.containerAnswer.wrong:hover,
+.containerAnswer.wrong {
+    color: #fff;
+    background-color: rgb(208, 129, 119);
+
+}
+
+.containerAnswer:hover,
+.containerAnswer:hover {
+    background: rgba(0, 0, 0, .2);
+    border-radius: 0 5px 5px 0;
+}
+
+.containerAnswers.answered {
+
+    .containerAnswer:hover {
+        background-color: inherit;
+        cursor:inherit;
+    }
+
+    .containerAnswer.correct:hover {
+        background-color: rgb(160, 208, 119);
+    }
+
+    .containerAnswer.wrong:hover {
+        background-color: rgb(208, 129, 119);
+    }
+
+}

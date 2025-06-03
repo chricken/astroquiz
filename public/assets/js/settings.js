@@ -1,7 +1,9 @@
 'use strict';
 
 const settings = {
-    questionIDs: []
+    questionIDs: [],
+    score: 0,
+    numAnswered: 0,
 }
 
 export default settings;

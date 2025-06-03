@@ -21,9 +21,9 @@ const dom = {
         styles = {},
         insert = 'append',
     } = {}) {
-    
+
         let neu = document.createElement(tagName);
-        if (content) neu.innerHTML = content;
+        if (content) neu.innerHTML = content || '0';
         if (name) neu.setAttribute('name', name);
         if (src) neu.setAttribute('src', src);
         if (href) neu.setAttribute('href', href);
@@ -33,11 +33,11 @@ const dom = {
         if (value) neu.setAttribute('value', value);
         if (cssClassName) neu.className = cssClassName;
         if (cssClasses.length) neu.classList.add(...cssClasses);
-    
+
         Object.entries(attr).forEach(el => neu.setAttribute(...el));
         Object.entries(listeners).forEach(el => neu.addEventListener(...el));
         Object.entries(styles).forEach(style => neu.style[style[0]] = style[1]);
-        
+
         if (parent) {
             if (insert == 'append') {
                 parent.append(neu);
@@ -49,13 +49,14 @@ const dom = {
                 parent.after(neu);
             }
         }
-        
+
         return neu;
     },
-    mapping(){
+    mapping() {
         elements.main = document.querySelector('main');
+        elements.header = document.querySelector('header');
     },
-    appendEventListeners(){
+    appendEventListeners() {
 
     }
 

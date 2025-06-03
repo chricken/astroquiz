@@ -1,0 +1,47 @@
+.containerScore {
+    border: 1px solid #ccc;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 200px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.containerScore>div:first-child {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.containerScoreInner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.score {
+    font-size: 32px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.count {
+    font-size: 18px;
+    color: #6c757d;
+    position: relative;
+}
+
+.count::before {
+    content: "/";
+    position: absolute;
+    left: -10px;
+    color: #adb5bd;
+}

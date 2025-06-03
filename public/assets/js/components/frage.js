@@ -103,17 +103,25 @@ const question = ({
         elAnswer.addEventListener('click', () => {
 
             if (!q.answered) {
+                let isCorrect = false;
+                q.answered = true;
                 containerAnswers.classList.add('answered');
                 if (q.correct.includes(index)) {
                     elAnswer.classList.add('correct')
-                } else {
+                    isCorrect = true;
+                } else { 
                     elAnswer.classList.add('wrong')
                 }
-                q.answered = true;
+                const evtCorrect = new CustomEvent(
+                    'answered',
+                    { detail: { isCorrect } }
+                )
+                container.dispatchEvent(evtCorrect);
             }
+
         })
     })
-
+    return container;
 }
 
 export default question;

@@ -1408,5 +1408,1602 @@
     "correct": [1],
     "schwierigkeit": 7,
     "hint": "Dieser bereits von den Babyloniern entdeckte Zyklus beruht auf dem Zusammenspiel mehrerer astronomischer Perioden und erlaubt die Vorhersage von Finsternissen mit bemerkenswerter Genauigkeit."
+  },
+  {
+    "question": "Was war das 'Apollo-Sojus-Test-Projekt' von 1975?",
+    "answers": [
+      "Ein nuklearer Antriebstest im Weltraum",
+      "Eine gemeinsame Raumfahrtmission der USA und der Sowjetunion während des Kalten Krieges",
+      "Ein gescheiterter Versuch, einen permanenten Stützpunkt auf dem Mond zu errichten",
+      "Ein Test für automatisierte Dockingverfahren zwischen unbemannten Raumschiffen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Mission markierte einen wichtigen Meilenstein der internationalen Zusammenarbeit im Weltraum während einer Zeit politischer Spannungen zwischen den beiden Supermächten."
+  },
+  {
+    "question": "Welches Raumfahrtprogramm folgte auf das Apollo-Programm der NASA?",
+    "answers": [
+      "Space Shuttle-Programm",
+      "Skylab",
+      "International Space Station (ISS)",
+      "Gemini-Programm"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Dieses Programm nutzte Hardware, die ursprünglich für Apollo entwickelt wurde, und stellte die erste US-amerikanische Raumstation dar, die von 1973 bis 1979 aktiv war."
+  },
+  {
+    "question": "Welche Besonderheit hatte die Raumsonde 'Voyager 1' ab 2012?",
+    "answers": [
+      "Sie erreichte als erstes Raumfahrzeug eine Geschwindigkeit von über 100.000 km/h",
+      "Sie wurde als erstes menschengemachtes Objekt interstellar, indem sie die Heliosphäre verließ",
+      "Sie war die erste Sonde, die mit einem Ionenantrieb ausgestattet war",
+      "Sie war das erste Raumfahrzeug, das ein komplettes Gravitationsmess-System zur Detektion von Dunkler Materie trug"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses Raumfahrzeug, gestartet 1977, erreichte einen bedeutenden Meilenstein, als es den Einflussbereich des Sonnenwinds verließ und in den interstellaren Raum eintrat."
+  },
+  {
+    "question": "Welches fundamentale Problem stellt der 'Raketengleichung' von Ziolkowski dar?",
+    "answers": [
+      "Die Unmöglichkeit, ohne Treibstoff im Vakuum zu manövrieren",
+      "Die exponentielle Beziehung zwischen der für eine Mission benötigten Treibstoffmasse und der gewünschten Geschwindigkeitsänderung",
+      "Die zunehmende Reibung bei hohen Geschwindigkeiten in der Atmosphäre",
+      "Die Unmöglichkeit, über die Lichtgeschwindigkeit hinaus zu beschleunigen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese grundlegende Gleichung der Raumfahrtphysik, Δv = v_e × ln(m_0/m_f), erklärt, warum Raketen so groß sein müssen und hauptsächlich aus Treibstoff bestehen."
+  },
+  {
+    "question": "Was war die 'Mars Climate Orbiter'-Mission und warum scheiterte sie?",
+    "answers": [
+      "Sie war eine Mission zum Mars, die scheiterte, weil ein Sonnensturm die Elektronik beschädigte",
+      "Sie war eine Mission zum Mars, die aufgrund einer Verwechslung zwischen metrischen und imperialen Maßeinheiten verloren ging",
+      "Sie war eine Mission zum Mars, deren Landemodul in einem Staubsturm zerstört wurde",
+      "Sie war eine Mission zum Mars, die aufgrund eines Softwarefehlers im Navigationssystem den Planeten verfehlte"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieser kostspielige Fehler von 1999 ist ein berühmtes Beispiel für Kommunikationsprobleme in technischen Projekten: Ein Team verwendete das metrische System, ein anderes das amerikanische Maßsystem."
+  },
+  {
+    "question": "Was ist die 'Hohmann-Transferbahn' in der Raumfahrt?",
+    "answers": [
+      "Eine spezielle Flugbahn für Mondlandungen",
+      "Die energieeffizienteste Bahn, um von einem Orbit in einen anderen zu wechseln",
+      "Eine Flugbahn, die genutzt wird, um der Gravitation von Schwarzen Löchern zu entkommen",
+      "Die Umlaufbahn der ISS um die Erde"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese elliptische Transferbahn, benannt nach dem deutschen Wissenschaftler Walter Hohmann, minimiert den Treibstoffverbrauch bei Orbittransfers, erfordert aber präzises Timing und mehr Zeit als direktere Flugbahnen."
+  },
+  {
+    "question": "Was versteht man unter einem 'Gravitational Slingshot' (Schwerkraftschleuder) in der Raumfahrt?",
+    "answers": [
+      "Eine Methode, um Raumfahrzeuge durch Ausnutzung der Schwerkraft eines Planeten zu beschleunigen",
+      "Ein Antriebssystem, das die Gravitationswellen von Schwarzen Löchern nutzt",
+      "Eine Strategie, um Raumfahrzeuge vor Gravitationsstrahlung zu schützen",
+      "Eine Technik zum Abbremsen von Raumfahrzeugen vor dem Wiedereintritt"
+    ],
+    "correct": [0],
+    "schwierigkeit": 5,
+    "hint": "Diese Technik nutzt die Bewegungsenergie und Schwerkraft von Himmelskörpern, um Raumfahrzeuge zu beschleunigen oder ihre Flugbahn zu ändern, ohne zusätzlichen Treibstoff zu verbrauchen."
+  },
+  {
+    "question": "Was war die 'Mercury-Redstone 3'-Mission?",
+    "answers": [
+      "Die erste bemannte amerikanische Raumfahrtmission mit Alan Shepard",
+      "Die erste Umkreisung der Erde durch einen Amerikaner",
+      "Der erste Versuch einer Mondlandung, der scheiterte",
+      "Die erste unbemannte Testmission für das Apollo-Programm"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Diese 15-minütige Mission am 5. Mai 1961 brachte den ersten Amerikaner ins All, erreichte aber im Gegensatz zu Juri Gagarins Flug einen Monat zuvor keine Erdumlaufbahn."
+  },
+  {
+    "question": "Welche besondere Eigenschaft hat ein 'Sun-synchroner Orbit'?",
+    "answers": [
+      "Das Raumfahrzeug bleibt immer auf der sonnenzugewandten Seite der Erde",
+      "Das Raumfahrzeug befindet sich immer über demselben Punkt der Erdoberfläche",
+      "Das Raumfahrzeug überquert jeden Punkt der Erde zur gleichen lokalen Sonnenzeit",
+      "Das Raumfahrzeug verbleibt immer im Schatten der Erde"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Diese speziellen polaren Orbits werden häufig für Erdbeobachtungssatelliten genutzt, da sie konstante Beleuchtungsbedingungen für jede überflogene Stelle bieten."
+  },
+  {
+    "question": "Was ist die 'Karman-Linie'?",
+    "answers": [
+      "Die Grenze zwischen Troposphäre und Stratosphäre",
+      "Die international anerkannte Grenze zwischen Erdatmosphäre und Weltraum (100 km Höhe)",
+      "Die Flugbahn, auf der sich Satelliten in einem geostationären Orbit bewegen",
+      "Die Grenze, ab der die Erdkrümmung sichtbar wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese von Theodore von Kármán definierte Grenze markiert die Höhe, ab der die Atmosphäre zu dünn ist, um aerodynamischen Auftrieb zu erzeugen, und Raumfahrzeuge orbital fliegen müssen."
+  },
+  {
+    "question": "Was ist der Hauptvorteil eines Ionentriebwerks gegenüber konventionellen chemischen Raketentriebwerken?",
+    "answers": [
+      "Höhere Schubkraft",
+      "Geringere Entwicklungskosten",
+      "Extrem hohe Treibstoffeffizienz (spezifischer Impuls)",
+      "Einfachere Bauweise"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese Antriebsart beschleunigt ionisierte Teilchen durch ein elektrisches Feld und erreicht dabei einen spezifischen Impuls, der etwa 10-mal höher ist als bei chemischen Triebwerken - allerdings mit deutlich geringerer Schubkraft."
+  },
+  {
+    "question": "Was war das besondere Merkmal der SpaceX Falcon 9-Rakete bei ihrem erfolgreichen Flug am 21. Dezember 2015?",
+    "answers": [
+      "Sie war die erste Rakete, die Menschen zum Mars transportieren konnte",
+      "Sie war die erste Rakete mit Atomantrieb",
+      "Die erste Stufe landete erfolgreich und kontrolliert auf einer Landeplattform",
+      "Sie war die erste Rakete, die vollständig aus recycelten Materialien gebaut wurde"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieser Meilenstein in der Raumfahrtgeschichte markierte den Beginn der Ära wiederverwendbarer Orbitalraketen und revolutionierte die Kostenstruktur des Zugangs zum Weltraum."
+  },
+  {
+    "question": "Was war die 'MIR' und wann wurde sie in Betrieb genommen?",
+    "answers": [
+      "Die erste amerikanische Raumfähre, 1982",
+      "Die erste sowjetische/russische modulare Raumstation, 1986",
+      "Das erste privatwirtschaftliche Raumfahrzeug, 1994",
+      "Das erste europäische Mondlandemodul, 1979"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese Raumstation war 15 Jahre lang in Betrieb (bis 2001) und stellte einen wichtigen Vorläufer der Internationalen Raumstation dar. Ihr Name bedeutet 'Frieden' oder 'Welt' auf Russisch."
+  },
+  {
+    "question": "Was ist ein 'Delta-v-Budget' in der Raumfahrtplanung?",
+    "answers": [
+      "Die maximal erlaubten Kosten für eine Mission",
+      "Die Summe aller Geschwindigkeitsänderungen, die für eine Mission erforderlich sind",
+      "Die Zeitreserve für unvorhergesehene Ereignisse während einer Mission",
+      "Die maximale Strahlenbelastung für Astronauten"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese zentrale Größe der Raumfahrtplanung bestimmt maßgeblich den Treibstoffbedarf und damit die Größe, Masse und Kosten eines Raumfahrzeugs."
+  },
+  {
+    "question": "Welche Besonderheit hatte die Sojus 11-Mission im Jahr 1971?",
+    "answers": [
+      "Sie brachte den ersten nicht-amerikanischen und nicht-sowjetischen Astronauten ins All",
+      "Sie war die erste Mission mit einer Frau an Bord",
+      "Sie endete tragisch mit dem Tod der gesamten Besatzung durch Dekompression während des Wiedereintritts",
+      "Sie stellte einen Rekord für den längsten kontinuierlichen Aufenthalt im Weltraum auf"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese Mission zur ersten sowjetischen Raumstation Saljut 1 verlief zunächst erfolgreich, endete aber mit einer der schlimmsten Tragödien der bemannten Raumfahrt, als ein Ventil versagte und die Druckkabine beim Abstieg entlüftete."
+  },
+  {
+    "question": "Was versteht man unter dem 'Oberth-Effekt' in der Raumfahrt?",
+    "answers": [
+      "Der Anstieg der Strahlenbelastung bei Flügen durch den Van-Allen-Gürtel",
+      "Die effizientere Nutzung von Raketentriebwerken bei hohen Geschwindigkeiten nahe großer Gravitationsquellen",
+      "Die Verzerrung von Funksignalen beim Wiedereintritt in die Atmosphäre",
+      "Die Erwärmung der Außenhülle durch atmosphärische Reibung"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Dieser nach dem deutschen Physiker Hermann Oberth benannte Effekt erklärt, warum Triebwerkszündungen am Perigäum (erdnächsten Punkt) einer Umlaufbahn besonders effizient sind und wird bei Gravitationsmanövern genutzt."
+  },
+  {
+    "question": "Was war die 'Challenger-Katastrophe' und wann ereignete sie sich?",
+    "answers": [
+      "Eine Explosion der Challenger-Mondlandefähre während der Apollo-Mission, 1969",
+      "Die Explosion des Space Shuttles Challenger kurz nach dem Start, 1986",
+      "Der Absturz eines Überschallflugzeugs namens 'Challenger' in den Atlantik, 1973",
+      "Ein Kommunikationsausfall, der fast zum Verlust einer Raumfähre führte, 1995"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Dieses Unglück, bei dem alle sieben Besatzungsmitglieder ums Leben kamen, wurde von Millionen Menschen im Fernsehen miterlebt und führte zu einer grundlegenden Überprüfung der Sicherheitskultur der NASA."
+  },
+  {
+    "question": "Was ist bei der 'Trans-Lunar Injection' (TLI)?",
+    "answers": [
+      "Die Injektion von Treibstoff in die Triebwerke einer Mondlandefähre",
+      "Ein Manöver, bei dem ein Raumfahrzeug aus dem Erdorbit in eine Flugbahn zum Mond gebracht wird",
+      "Die Einspeisung von Mondgesteinsproben in Analyseapparate",
+      "Die Übertragung von Daten von Mondmissionen zur Erde"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses kritische Manöver erfordert eine präzise Triebwerkszündung, um ein Raumschiff aus dem Erdorbit zu 'befreien' und auf eine Flugbahn zu bringen, die es zum Mond führt."
+  },
+  {
+    "question": "Welches Raumfahrzeug hält den Rekord für die schnellste von Menschen gebaute Maschine?",
+    "answers": [
+      "Voyager 1",
+      "New Horizons",
+      "Parker Solar Probe",
+      "Helios 2"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese NASA-Sonde wurde 2018 gestartet und erreicht bei ihrer Annäherung an die Sonne Geschwindigkeiten von über 690.000 km/h (192 km/s) - schnell genug, um die Erde in weniger als 4 Minuten zu umrunden."
+  },
+  {
+    "question": "Was war der 'Space Race' (Wettlauf ins All)?",
+    "answers": [
+      "Ein jährliches Rennen von Experimental-Raumflugzeugen in der Mojave-Wüste",
+      "Der Wettbewerb zwischen den USA und der Sowjetunion um Errungenschaften in der Raumfahrt während des Kalten Krieges",
+      "Die erste kommerzielle Weltraumtourismusinitiative in den 1990er Jahren",
+      "Ein NASA-Programm zur Förderung privater Raumfahrtunternehmen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Diese historische Periode von den 1950er bis in die 1970er Jahre war geprägt von geopolitischen Spannungen und technologischem Fortschritt, mit Meilensteinen wie dem ersten Satelliten (Sputnik), dem ersten Menschen im All und der ersten Mondlandung."
+  },
+  {
+    "question": "Welches Problem stellt die 'Strahlungsgürtel der Erde' (Van-Allen-Gürtel) für die bemannte Raumfahrt dar?",
+    "answers": [
+      "Sie verhindern Funkkommunikation zwischen Erde und Raumfahrzeugen",
+      "Sie können gefährliche Strahlungsdosen für Astronauten verursachen und elektronische Geräte beschädigen",
+      "Sie erzeugen starke Magnetfelder, die Navigationsinstrumente stören",
+      "Sie verursachen eine starke Erwärmung der Außenhülle von Raumfahrzeugen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Zonen mit hoher Konzentration energiereicher geladener Teilchen, die vom Erdmagnetfeld eingefangen werden, stellen eine Herausforderung für langfristige Missionen jenseits der niedrigen Erdumlaufbahn dar."
+  },
+  {
+    "question": "Was ist ein 'Bigelow-Modul' in der Raumfahrt?",
+    "answers": [
+      "Ein spezielles Trainingsgerät für Astronauten",
+      "Ein aufblasbares Raumstationsmodul mit flexibler Außenhülle",
+      "Ein Landegerät für Marsexpeditionen",
+      "Ein System zur Wasseraufbereitung auf Raumstationen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese innovative Technologie, entwickelt von Bigelow Aerospace, verspricht mehr Volumen bei geringerem Startgewicht und wurde bereits an der ISS getestet (BEAM-Modul)."
+  },
+  {
+    "question": "Was war die 'Genesis'-Mission der NASA?",
+    "answers": [
+      "Die erste Mission zum Merkur",
+      "Eine Mission zur Sammlung von Sonnenwindpartikeln und deren Rückführung zur Erde",
+      "Der erste Versuch, Menschen zum Mars zu schicken",
+      "Eine Mission zur Erforschung der Jupitermonde"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese Probenrückführungsmission sammelte von 2001 bis 2004 Teilchen des Sonnenwinds, erlangte aber auch Bekanntheit durch Probleme beim Wiedereintritt, als der Fallschirm nicht öffnete."
+  },
+  {
+    "question": "In welchem Jahr flog der erste Mensch ins All?",
+    "answers": [
+      "1957",
+      "1961",
+      "1969",
+      "1975"
+    ],
+    "correct": [1],
+    "schwierigkeit": 4,
+    "hint": "Dieser historische Flug wurde von einem sowjetischen Kosmonauten durchgeführt, der die Erde einmal umkreiste und zum Helden der Sowjetunion erklärt wurde."
+  },
+  {
+    "question": "Was zeichnet die 'New Glenn'-Rakete von Blue Origin aus?",
+    "answers": [
+      "Sie ist die erste Rakete, die Solarpanels als Hauptenergiequelle nutzt",
+      "Sie ist für wiederverwendbare Orbitaleinsätze konzipiert und deutlich größer als die meisten aktuellen Trägerraketen",
+      "Sie nutzt ausschließlich umweltfreundliche Treibstoffe",
+      "Sie ist speziell für interplanetare Missionen zum äußeren Sonnensystem gebaut"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese von Jeff Bezos' Raumfahrtunternehmen entwickelte Schwerlastrakete ist nach John Glenn benannt und soll in ihrer endgültigen Version eine wiederverwendbare erste Stufe haben und mehr als 45 Tonnen in eine niedrige Erdumlaufbahn bringen können."
+  },
+  {
+    "question": "Welches war das erste kommerzielle Unternehmen, das ein Raumfahrzeug zur Internationalen Raumstation schickte?",
+    "answers": [
+      "Blue Origin",
+      "Virgin Galactic",
+      "SpaceX",
+      "Boeing"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Dieses von Elon Musk gegründete Unternehmen erreichte diesen Meilenstein im Mai 2012 mit seinem Dragon-Raumschiff und erhielt anschließend umfangreiche NASA-Verträge für Versorgungsflüge."
+  },
+  {
+    "question": "Was ist die 'Tsiolkovsky-Raketengleichung'?",
+    "answers": [
+      "Eine Formel, die den Treibstoffverbrauch in Abhängigkeit von der Beschleunigung berechnet",
+      "Die mathematische Beziehung zwischen Raketengeschwindigkeit, Ausströmgeschwindigkeit und Massenverhältnis",
+      "Eine Gleichung zur Berechnung der optimalen Startwinkel für Orbitaleinsätze",
+      "Die mathematische Beschreibung der aerodynamischen Eigenschaften einer Rakete"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese fundamentale Gleichung der Raketentechnik, Δv = v_e × ln(m_0/m_f), wurde von einem russischen Raumfahrtpionier entwickelt und erklärt, warum der Stufenaufbau von Raketen so wichtig ist."
+  },
+  {
+    "question": "Was ist ein 'Lunar Swingby'?",
+    "answers": [
+      "Eine Technik beim Mondspaziergang, um sich im Vakuum fortzubewegen",
+      "Ein Manöver, bei dem ein Raumfahrzeug die Mondgravitation nutzt, um seine Flugbahn zu ändern",
+      "Eine spezielle Mondumlaufbahn für Kommunikationssatelliten",
+      "Die Desorbitierung eines Mondsatelliten am Ende seiner Mission"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Technik wurde erstmals von der Apollo 13-Mission als Notfallmanöver zur Rückkehr zur Erde eingesetzt und wird heute regelmäßig für interplanetare Missionen verwendet, um Treibstoff zu sparen."
+  },
+  {
+    "question": "Welche Bedeutung hatte die 'Gemini'-Programmreihe der NASA?",
+    "answers": [
+      "Sie war das erste Programm zur Erforschung von Zwillingssternen",
+      "Sie testete wesentliche Techniken für die Mondlandungen wie Rendezvous und Andocken zwischen Raumfahrzeugen",
+      "Sie führte die ersten internationalen Weltraummissionen durch",
+      "Sie etablierte die erste dauerhafte Mondbasis"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses Programm (1965-1966) war die Brücke zwischen dem Mercury- und dem Apollo-Programm und entwickelte entscheidende Fähigkeiten für die spätere Mondlandung."
+  },
+  {
+    "question": "Was versteht man unter dem Begriff 'Lagrange-Punkte'?",
+    "answers": [
+      "Punkte auf der Mondoberfläche mit besonders geringer Schwerkraft",
+      "Spezifische Positionen im Weltraum, an denen sich die Gravitationskräfte zweier Himmelskörper ausgleichen",
+      "Die optimalen Punkte für einen Raketenstark auf dem Mond",
+      "Punkte auf der Erdoberfläche mit idealen Bedingungen für Raketenstarts"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese fünf speziellen Punkte in einem Zwei-Körper-System (wie Erde-Mond oder Sonne-Erde) bieten stabile oder semi-stabile Positionen, die für die Stationierung von Weltraumteleskopen und anderen Raumfahrzeugen ideal sind."
+  },
+  {
+    "question": "Was ist ein 'Hall-Effekt-Triebwerk'?",
+    "answers": [
+      "Ein chemisches Raketentriebwerk mit besonders hohem Schub",
+      "Ein elektrisches Antriebssystem für Raumfahrzeuge, das ein magnetisches Feld zur Ionenbeschleunigung nutzt",
+      "Eine besondere Form des Nuklearantriebs für tiefe Weltraummissionen",
+      "Ein theoretisches Antriebskonzept für interstellare Reisen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Dieser Typ von Ionentriebwerk nutzt ein elektrisches Feld zur Beschleunigung von Ionen und ein magnetisches Feld zur Kontrolle der Elektronenbewegung, was zu einem effizienteren Betrieb führt als bei anderen elektrischen Antriebssystemen."
+  },
+  {
+    "question": "Welchen großen Vorteil bietet ein Raketenstart vom Äquator im Vergleich zu höheren Breitengraden?",
+    "answers": [
+      "Bessere Wetterbedingungen",
+      "Zusätzliche Geschwindigkeit durch die Erdrotation",
+      "Nähere Distanz zum Zielorbit",
+      "Geringere Luftdichte"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "An diesem geografischen Standort rotiert die Erdoberfläche mit maximaler Geschwindigkeit (etwa 1670 km/h), was bei Starts in östliche Richtung eine signifikante Treibstoffersparnis ermöglicht."
+  },
+  {
+    "question": "Was ist das 'Artemis-Programm' der NASA?",
+    "answers": [
+      "Ein Programm zur Asteroidenabwehr",
+      "Eine Initiative zur Rückkehr von Menschen zum Mond und zur Etablierung einer nachhaltigen lunaren Präsenz",
+      "Ein Projekt zur Erforschung der Marsoberfläche mit Rovern",
+      "Ein internationales Programm zum Aufbau einer zweiten Raumstation"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Dieses 2019 angekündigte Programm zielt darauf ab, bis 2025/26 die erste Frau und den nächsten Mann auf die Mondoberfläche zu bringen und langfristig die bemannte Erforschung des Mars vorzubereiten."
+  },
+  {
+    "question": "Was bezeichnet man als 'EVA' in der Raumfahrt?",
+    "answers": [
+      "Extra Vehicular Activity - Aktivitäten außerhalb eines Raumfahrzeugs (Weltraumspaziergang)",
+      "Earth Vicinity Approach - die letzte Phase vor dem Wiedereintritt",
+      "Emergency Vessel Assistance - ein Rettungssystem für Notfälle im All",
+      "Experimental Velocity Adjustment - eine besondere Form des Orbitalmanövers"
+    ],
+    "correct": [0],
+    "schwierigkeit": 4,
+    "hint": "Diese Aktivitäten erfordern spezielle Raumanzüge mit autonomen Lebenserhaltungssystemen und werden für Reparaturen, Installation von Ausrüstung oder wissenschaftliche Experimente durchgeführt."
+  },
+  {
+    "question": "Was ist das besondere Merkmal eines Neutronensterns direkt nach seiner Entstehung?",
+    "answers": [
+      "Er leuchtet hell im sichtbaren Lichtbereich",
+      "Er rotiert extrem schnell und besitzt ein sehr starkes Magnetfeld",
+      "Er ist vollständig transparent für elektromagnetische Strahlung",
+      "Er hat eine negative Oberflächentemperatur"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Objekte entstehen beim Kernkollaps massereicher Sterne, wobei durch Drehimpulserhaltung eine extreme Rotationsbeschleunigung eintritt - vergleichbar mit einer Eiskunstläuferin, die ihre Arme anzieht."
+  },
+  {
+    "question": "Wodurch unterscheiden sich Neutronensterne grundlegend von Weißen Zwergen?",
+    "answers": [
+      "Durch ihren Entstehungsprozess: Neutronensterne entstehen durch Supernova-Explosionen, Weiße Zwerge durch das Abstoßen der äußeren Hülle",
+      "Durch ihre Masse: Neutronensterne haben typischerweise weniger Masse als Weiße Zwerge",
+      "Durch ihre Zusammensetzung: Weiße Zwerge bestehen hauptsächlich aus Neutronen, Neutronensterne aus entarteter Elektronenmaterie",
+      "Durch ihre Farbe: Neutronensterne erscheinen rot, Weiße Zwerge blau"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Die beiden stellaren Überreste repräsentieren unterschiedliche Endstadien in der Sternentwicklung, abhängig von der ursprünglichen Sternmasse und dem Mechanismus, der die Kernfusion beendet."
+  },
+  {
+    "question": "Was zeichnet einen Weißen Zwerg physikalisch aus?",
+    "answers": [
+      "Er besteht hauptsächlich aus Helium und schwereren Elementen, die durch den Elektronenentartungsdruck gegen die Gravitation stabilisiert werden",
+      "Er besteht aus einem superdichten Neutronengas",
+      "Er ist ein Stern, der gerade seine Wasserstoffvorräte erschöpft hat",
+      "Er ist ein Stern, der durch Neutrinostrahlung gekühlt wird"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "In diesen kompakten Sternenresten verhindert ein quantenmechanischer Effekt den weiteren Gravitationskollaps - das Pauli-Prinzip verhindert, dass sich Elektronen im selben Quantenzustand befinden können."
+  },
+  {
+    "question": "Was ist die Chandrasekhar-Grenze und welche Bedeutung hat sie?",
+    "answers": [
+      "Die maximale Temperatur, die ein Neutronenstern erreichen kann",
+      "Die maximale Rotationsgeschwindigkeit eines Pulsars",
+      "Die maximale Masse eines Weißen Zwergs (etwa 1,44 Sonnenmassen), oberhalb derer er kollabiert",
+      "Die minimale Masse, die ein Stern haben muss, um zu einem Schwarzen Loch zu werden"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Diese nach dem indischen Astrophysiker Subrahmanyan Chandrasekhar benannte Grenze ist entscheidend für das Schicksal eines Sterns nach dem Ende der Kernfusion und für das Verständnis von Supernova-Explosionen vom Typ Ia."
+  },
+  {
+    "question": "Was ist die Tolman-Oppenheimer-Volkoff-Grenze?",
+    "answers": [
+      "Die minimale Masse für die Zündung der Wasserstofffusion in einem Stern",
+      "Die maximale Masse eines stabilen Neutronensterns (etwa 2-3 Sonnenmassen)",
+      "Die maximale Entfernung, aus der ein Pulsar noch detektiert werden kann",
+      "Die Grenzmasse, ab der ein Weißer Zwerg zu einem Neutronenstern wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese theoretische Obergrenze für die Masse eines Neutronensterns ist das Gegenstück zur Chandrasekhar-Grenze für Weiße Zwerge. Jenseits dieser Grenze kann der Neutronendegenerationsdruck der Gravitation nicht mehr standhalten."
+  },
+  {
+    "question": "Was ist ein Magnetar?",
+    "answers": [
+      "Ein besonders massereicher Weißer Zwerg mit starkem Magnetfeld",
+      "Ein Neutronenstern mit extrem starkem Magnetfeld (10¹³-10¹⁵ Tesla)",
+      "Ein Stern, dessen Magnetfeld die interne Fusion beeinflusst",
+      "Ein Magnetfeld im interstellaren Raum, das durch kollidierende Neutronensterne erzeugt wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese seltenen Objekte besitzen die stärksten bekannten Magnetfelder im Universum, etwa eine Billion mal stärker als das Erdmagnetfeld, und können massive Ausbrüche von Gammastrahlung und Röntgenstrahlung erzeugen."
+  },
+  {
+    "question": "In welcher Weise unterscheidet sich ein Pulsar von einem gewöhnlichen Neutronenstern?",
+    "answers": [
+      "Ein Pulsar ist größer als ein gewöhnlicher Neutronenstern",
+      "Ein Pulsar hat eine niedrigere Dichte als ein gewöhnlicher Neutronenstern",
+      "Ein Pulsar ist ein rotierender Neutronenstern, dessen Strahlungskeule periodisch zur Erde zeigt",
+      "Ein Pulsar ist ein nicht-rotierender Neutronenstern mit besonders starker Röntgenemission"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Die charakteristischen regelmäßigen Signale dieser Objekte führten bei ihrer Entdeckung 1967 zunächst zur Spekulation über außerirdische Intelligenz ('LGM' - Little Green Men)."
+  },
+  {
+    "question": "Was ist die vorhergesagte Zukunft unserer Sonne?",
+    "answers": [
+      "Sie wird sich zu einem Roten Riesen aufblähen, dann ihre äußere Hülle abstoßen und als Weißer Zwerg enden",
+      "Sie wird in einer Supernova explodieren und einen Neutronenstern hinterlassen",
+      "Sie wird direkt zu einem Schwarzen Loch kollabieren",
+      "Sie wird sich langsam abkühlen und zu einem Braunen Zwerg werden"
+    ],
+    "correct": [0],
+    "schwierigkeit": 5,
+    "hint": "Das Schicksal eines Sterns wird hauptsächlich durch seine anfängliche Masse bestimmt. Sterne mit einer Masse ähnlich unserer Sonne haben nicht genug Gravitationsenergie für die dramatischeren Endszenarien."
+  },
+  {
+    "question": "Was ist der Unterschied zwischen einem Weißen Zwerg und einem Braunen Zwerg?",
+    "answers": [
+      "Ein Weißer Zwerg ist heißer als ein Brauner Zwerg",
+      "Ein Brauner Zwerg ist das Endstadium eines Sterns, ein Weißer Zwerg ein Zwischenstadium",
+      "Ein Weißer Zwerg ist ein stellarer Überrest nach dem Ende der Kernfusion, ein Brauner Zwerg hat nie richtig mit der Fusion von Wasserstoff begonnen",
+      "Ein Brauner Zwerg besteht hauptsächlich aus Eisen, ein Weißer Zwerg aus Kohlenstoff und Sauerstoff"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Diese beiden Objekttypen haben trotz ähnlicher Namen völlig unterschiedliche Entstehungsgeschichten und physikalische Eigenschaften. Einer erreichte nie die nötige Masse für volle Kernfusion, während der andere das Ende eines vollständigen stellaren Lebenszyklus darstellt."
+  },
+  {
+    "question": "Was ist 'KIC 8462852' bzw. 'Tabbys Stern' und warum erregte er Aufmerksamkeit?",
+    "answers": [
+      "Ein Pulsar mit ungewöhnlich stabiler Rotationsperiode",
+      "Ein Stern, der plötzlich sein Spektrum von einem Roten Riesen zu einem Weißen Zwerg änderte",
+      "Ein Stern mit unregelmäßigen, starken Helligkeitsschwankungen, die durch herkömmliche Phänomene schwer zu erklären sind",
+      "Der erste entdeckte Stern mit einem bestätigten Exoplaneten"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Dieser F-Typ Stern wurde durch das Kepler-Weltraumteleskop beobachtet und zeigte Helligkeitsabfälle von bis zu 22%, was viel zu stark für normale Planetentransite ist. Die Ursache bleibt umstritten, von Kometenschwärmen bis zu spekulativen außerirdischen Megastrukturen."
+  },
+  {
+    "question": "Was wird als 'Verdampfen' eines Weißen Zwergs bezeichnet?",
+    "answers": [
+      "Das langsame Abkühlen und Verblassen des Sterns über Milliarden von Jahren",
+      "Ein plötzlicher Temperaturanstieg durch einsetzende Heliumfusion",
+      "Der Prozess, bei dem ein Weißer Zwerg in einem Binärsystem Materie vom Partnerstern akkretiert",
+      "Der theoretische Endprozess, bei dem ein Weißer Zwerg durch Quanteneffekte langsam Masse verliert"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Da diese Sternenreste keine aktive Kernfusion mehr betreiben, kühlen sie über extrem lange Zeiträume langsam ab. Die ältesten und kühlsten werden als 'Schwarze Zwerge' bezeichnet und sollten theoretisch noch nicht entstanden sein, da das Universum nicht alt genug ist."
+  },
+  {
+    "question": "Was ist eine Typ-Ia-Supernova?",
+    "answers": [
+      "Die Explosion eines einzelnen massereichen Sterns am Ende seines Lebens",
+      "Die Explosion eines Weißen Zwergs, der durch Materieübertragung von einem Begleitstern die Chandrasekhar-Grenze überschreitet",
+      "Die Kollision zweier Neutronensterne",
+      "Die Explosion eines Planetensystems, wenn sein Zentralstern zum Roten Riesen wird"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Art von Supernova ist besonders wichtig für die Astronomie, da sie aufgrund ihrer fast identischen maximalen Helligkeit als 'Standardkerzen' für Entfernungsmessungen im Universum dienen."
+  },
+  {
+    "question": "Was versteht man unter einer 'Kilonova'?",
+    "answers": [
+      "Eine besonders energiereiche Supernova",
+      "Ein astronomisches Ereignis, bei dem zwei Weiße Zwerge verschmelzen",
+      "Die Explosion, die entsteht, wenn ein Schwarzes Loch einen Neutronenstern verschluckt",
+      "Die Verschmelzung zweier Neutronensterne oder eines Neutronensterns mit einem Schwarzen Loch"
+    ],
+    "correct": [3],
+    "schwierigkeit": 8,
+    "hint": "Diese erst vor wenigen Jahren erstmals direkt beobachteten Ereignisse werden sowohl als elektromagnetisches Signal als auch als Gravitationswellen detektiert und sind bedeutende Quellen für die Entstehung schwerer Elemente im Universum."
+  },
+  {
+    "question": "Wie entsteht ein Millisekunden-Pulsar?",
+    "answers": [
+      "Durch die Geburt eines besonders massearmen Neutronensterns",
+      "Durch die 'Wiederbelebung' eines alten Pulsars durch Akkretion von Materie von einem Begleitstern",
+      "Durch die Kollision zweier Weißer Zwerge",
+      "Durch einen Fehler bei der Messung der tatsächlichen Pulsarfrequenz"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese extrem schnell rotierenden Neutronensterne (mit Perioden im Millisekundenbereich) entstehen typischerweise in Binärsystemen, wo ein bereits verlangsamter Pulsar durch Materieübertragung wieder beschleunigt wird - ein Prozess, der als 'Recycling' bezeichnet wird."
+  },
+  {
+    "question": "Was würde geschehen, wenn man einen Teelöffel Neutronensternmaterie zur Erde bringen könnte?",
+    "answers": [
+      "Die Erde würde durch die erzeugte Neutronenstrahlung sterilisiert",
+      "Der Teelöffel würde etwa 5 Milliarden Tonnen wiegen und durch die Erde fallen",
+      "Die Neutronenmaterie würde sofort explodieren und einen Krater von der Größe Manhattans hinterlassen",
+      "Die Neutronenmaterie würde sofort zu normaler Materie zerfallen und nur einen kleinen Energieausstoß verursachen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Die extreme Dichte dieser Materie (etwa 10^17 kg/m³) führt zu bizarren Gedankenexperimenten. Die Materie ist nur unter dem unglaublichen Druck im Inneren eines Neutronensterns stabil und hätte auf der Erde dramatische Auswirkungen."
+  },
+  {
+    "question": "Was ist die 'Neutronensternkruste'?",
+    "answers": [
+      "Eine dünne Staubschicht, die Neutronensterne umgibt",
+      "Ein Asteroid, der einen Neutronenstern umkreist",
+      "Eine kristalline Schicht am äußeren Rand eines Neutronensterns mit besonderen physikalischen Eigenschaften",
+      "Eine hypothetische Region im Inneren des Neutronensterns mit erhöhter Dichte"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Ein Neutronenstern ist kein homogenes Objekt, sondern hat eine komplexe Struktur. Die äußeren Schichten bestehen aus schweren Atomkernen in einem gitterartigen Aufbau, ähnlich wie ein Metall, aber bei extrem hoher Dichte."
+  },
+  {
+    "question": "Was sind Sternbeben ('Starquakes') bei Neutronensternen?",
+    "answers": [
+      "Plötzliche Änderungen in der Rotation eines Neutronensterns durch Anpassungen der Sternkruste",
+      "Regelmäßige Pulsationen, die durch thermonukleare Explosionen auf der Oberfläche verursacht werden",
+      "Erschütterungen, die durch einschlagende Asteroiden verursacht werden",
+      "Gravitationswellen, die zwischen Neutronensternen in Binärsystemen ausgetauscht werden"
+    ],
+    "correct": [0],
+    "schwierigkeit": 8,
+    "hint": "Diese plötzlichen Ereignisse können zu messbaren Änderungen in der Rotationsperiode eines Pulsars führen ('Glitches'). Sie entstehen ähnlich wie Erdbeben, wenn Spannungen in der ultradichten Kruste freigesetzt werden."
+  },
+  {
+    "question": "Was ist ein 'Thorne-Żytkow-Objekt' (TŻO)?",
+    "answers": [
+      "Ein hypothetisches Objekt, bei dem ein Neutronenstern im Inneren eines Roten Riesen existiert",
+      "Ein theoretisches Zwischenstadium zwischen Neutronenstern und Schwarzem Loch",
+      "Ein Weißer Zwerg, der Materie von einem Roten Riesen akkretiert",
+      "Eine spezielle Art von Kontaktsystem zwischen zwei Sternen, benannt nach seinen Entdeckern"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Diese seltsamen hypothetischen Objekte wurden in den 1970er Jahren von Kip Thorne und Anna Żytkow theoretisch beschrieben. Sie könnten durch die Verschmelzung eines Neutronensterns mit einem normalen Stern entstehen und hätten sehr ungewöhnliche spektrale Eigenschaften."
+  },
+  {
+    "question": "Was ist ein 'Zwillingspulsar'?",
+    "answers": [
+      "Ein Pulsar, der sein Signal in zwei verschiedenen Frequenzbereichen ausstrahlt",
+      "Ein Paar identischer Pulsare, die gemeinsam bei einer Supernova entstanden sind",
+      "Ein Binärsystem aus zwei Neutronensternen, von denen mindestens einer als Pulsar beobachtbar ist",
+      "Ein Pulsar mit zwei separaten Emissionskegeln, die als unterschiedliche Pulse wahrgenommen werden"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Das bekannteste Beispiel ist das PSR B1913+16 System, das von Russell Hulse und Joseph Taylor entdeckt wurde. Die präzise Vermessung seiner Bahnänderung führte zum ersten indirekten Nachweis von Gravitationswellen, wofür die Entdecker 1993 den Nobelpreis erhielten."
+  },
+  {
+    "question": "Was ist ein 'Weißer Zwerg-Pulsar'?",
+    "answers": [
+      "Ein normaler Pulsar, der einen Weißen Zwerg umkreist",
+      "Ein rotierender Weißer Zwerg mit starkem Magnetfeld, der pulsierende Radioemissionen zeigt",
+      "Der Übergang eines Pulsars in einen Weißen Zwerg",
+      "Ein hypothetisches Objekt, das bisher nur theoretisch vorhergesagt wurde"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Diese seltenen Objekte wurden erst in den letzten Jahren entdeckt und stellen gewissermaßen ein Bindeglied zwischen Weißen Zwergen und Pulsaren dar. Der erste bestätigte Kandidat, AR Scorpii, wurde 2016 identifiziert."
+  },
+  {
+    "question": "Was ist ein 'Quark-Stern' (oder seltsamer Stern)?",
+    "answers": [
+      "Ein hypothetisches Objekt, dessen Mittelpunkt aus freien Quarks und nicht aus Neutronen besteht",
+      "Ein neu entdeckter Sterntyp mit besonders starker Röntgenemission",
+      "Ein rotierender Neutralino-Stern, der Dunkle Materie enthält",
+      "Ein alter Stern mit ungewöhnlicher chemischer Zusammensetzung"
+    ],
+    "correct": [0],
+    "schwierigkeit": 10,
+    "hint": "Diese hypothetischen Objekte könnten ein Zwischenzustand zwischen Neutronensternen und Schwarzen Löchern sein. Bei den enormen Drücken im Innern könnten Neutronen zu ihren Grundbausteinen - Quarks - zerfallen und eine neue Form von Materie bilden."
+  },
+  {
+    "question": "Was sind 'Glitches' bei Pulsaren?",
+    "answers": [
+      "Fehler in der Datenübertragung bei der Beobachtung von Pulsaren",
+      "Plötzliche, kleine Erhöhungen der Rotationsgeschwindigkeit eines Pulsars",
+      "Die charakteristischen Radioemissionen, die den Pulsar definieren",
+      "Kurze Aussetzer in der sonst regelmäßigen Pulsation"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese plötzlichen Änderungen im regelmäßigen Verlangsamungsprozess eines Pulsars werden vermutlich durch 'Sternbeben' oder Veränderungen in der Struktur des superfluiden Inneren verursacht und bieten wertvolle Einblicke in die Physik dieser extremen Objekte."
+  },
+  {
+    "question": "Welche Oberflächentemperatur haben typische Weiße Zwerge?",
+    "answers": [
+      "Etwa 3.000 Kelvin",
+      "Etwa 8.000 bis 40.000 Kelvin",
+      "Etwa 1 Million Kelvin",
+      "Etwa 15 Millionen Kelvin"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Sternenreste sind trotz ihrer relativ geringen Größe (etwa erdgroß) zunächst sehr heiß und strahlen, da sie keine Energie mehr durch Kernfusion erzeugen, über extrem lange Zeiträume ab, wobei sie langsam abkühlen und verblassen."
+  },
+  {
+    "question": "Welche Dichte hat typischerweise die Materie in einem Neutronenstern?",
+    "answers": [
+      "Etwa 100 g/cm³ (100-fache Wasserdichte)",
+      "Etwa 10.000 g/cm³ (Dichte eines Weißen Zwergs)",
+      "Etwa 10^17 g/cm³ (Dichte von Atomkernen)",
+      "Etwa 10^26 g/cm³ (nur in Schwarzen Löchern übertroffen)"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Bei dieser extremen Dichte würde ein Würfel mit 1 cm Kantenlänge etwa 100 Millionen Tonnen wiegen. Diese Dichte entspricht der von Atomkernen, denn tatsächlich kann man einen Neutronenstern als einen gigantischen Atomkern betrachten."
+  },
+  {
+    "question": "Was ist die 'Akkretierende Supernova'-Theorie?",
+    "answers": [
+      "Die Theorie, dass Supernovae durch Akkretion von interstellarem Gas ausgelöst werden",
+      "Eine Erklärung für Typ-Ia-Supernovae, bei der ein Weißer Zwerg durch Materie von einem Begleitstern die kritische Masse erreicht",
+      "Die Hypothese, dass Neutronensterne durch Akkretion zu Schwarzen Löchern werden",
+      "Eine Theorie zur Entstehung von Planeten durch Supernovareste"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieser Mechanismus erklärt, wie ein bereits 'toter' Stern wieder zu einer der gewaltigsten Explosionen im Universum führen kann. Er spielt eine zentrale Rolle in der kosmologischen Distanzmessung."
+  },
+  {
+    "question": "Was ist das 'Zwergnovae'-Phänomen?",
+    "answers": [
+      "Die Explosion eines isolierten Weißen Zwergs",
+      "Regelmäßige Helligkeitsausbrüche in engen Doppelsternsystemen mit einem akkretierenden Weißen Zwerg",
+      "Die Verschmelzung zweier Brauner Zwerge",
+      "Ein seltenes Phänomen, bei dem ein Weißer Zwerg plötzlich zu einem Neutronenstern kollabiert"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese wiederkehrenden Ausbrüche entstehen, wenn akkretierte Materie auf der Oberfläche eines Weißen Zwergs genügend Dichte und Temperatur erreicht, um nukleare Fusion zu ermöglichen. Sie sind viel schwächer als Supernovae und wiederholen sich typischerweise nach Wochen bis Jahren."
+  },
+  {
+    "question": "Was ist ein 'Röntgendoppelstern' (X-ray binary)?",
+    "answers": [
+      "Ein stellares Schwarzes Loch, das aus zwei verschmolzenen Sternen entstanden ist",
+      "Ein Paar von Sternen, die sich gegenseitig röntgen",
+      "Ein Binärsystem, bei dem ein Neutronenstern oder Schwarzes Loch Materie von einem Begleitstern akkretiert und dabei Röntgenstrahlung emittiert",
+      "Ein Doppelsternsystem, das hauptsächlich im Röntgenbereich sichtbar ist"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese Systeme gehören zu den hellsten Röntgenquellen am Himmel. Die Röntgenstrahlung entsteht durch die extreme Erhitzung der Materie, die vom Begleitstern auf das kompakte Objekt fällt und dabei in einer Akkretionsscheibe beschleunigt wird."
+  },
+  {
+    "question": "Was sind 'Gas-Zwerge'?",
+    "answers": [
+      "Planeten ähnlich dem Jupiter oder Saturn",
+      "Weiße Zwerge mit einer ungewöhnlich dichten Atmosphäre",
+      "Kleine Gasansammlungen im interstellaren Raum",
+      "Eine Sonderform von Braunen Zwergen mit besonders niedrigem Metallgehalt"
+    ],
+    "correct": [0],
+    "schwierigkeit": 5,
+    "hint": "Dieser Begriff wird hauptsächlich in der Planetologie verwendet, im Gegensatz zu den stellaren 'Zwergen' wie Weißen Zwergen, Roten Zwergen oder Braunen Zwergen, die eine andere Entstehungsgeschichte haben."
+  },
+  {
+    "question": "Was ist ein 'Fast Radio Burst' (FRB)?",
+    "answers": [
+      "Ein kurzes, intensives Radiosignal aus dem tiefen Weltraum, dessen Ursprung noch nicht vollständig geklärt ist",
+      "Die Radioemission bei der Entstehung eines Weißen Zwergs",
+      "Ein technisches Signal, das von Radioteleskopen zur Kalibrierung genutzt wird",
+      "Die Radioemission beim Zerfall eines Neutronensterns"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Diese erst seit 2007 bekannten mysteriösen Signale dauern nur Millisekunden, können aber über kosmische Entfernungen detektiert werden. Einige wiederholende FRBs wurden inzwischen mit Magnetaren in Verbindung gebracht."
+  },
+  {
+    "question": "Was wäre 'BPM 37093' (Lucy) aus astronomischer Sicht besonders interessant?",
+    "answers": [
+      "Es ist der erste entdeckte Exoplanet mit einer Sauerstoffatmosphäre",
+      "Es ist ein Weißer Zwerg, dessen Kohlenstoffkern zu einem riesigen kristallinen Diamanten kristallisiert ist",
+      "Es ist der erste entdeckte Quark-Stern",
+      "Es ist das erste entdeckte Dreifachsystem aus einem Schwarzen Loch, einem Neutronenstern und einem Weißen Zwerg"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Dieser etwa 50 Lichtjahre entfernte Weiße Zwerg im Sternbild Zentaur hat nach astronomischen Berechnungen einen kristallisierten Kohlenstoffkern von etwa 10 Billionen Billionen Billionen Karat."
+  },
+  {
+    "question": "Was versteht man unter einer 'Planetarischen Nova'?",
+    "answers": [
+      "Die Explosion eines Planeten durch stellare Eruptionen",
+      "Die Entdeckung eines neuen Planeten (lateinisch 'nova' = neu)",
+      "Ein kurzer, heller Helligkeitsausbruch in einem Doppelsternsystem mit einem Weißen Zwerg",
+      "Die Entstehung eines Planeten aus einer stellaren Explosion"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieses Phänomen hat nichts mit Planeten zu tun, trotz seines irreführenden älteren Namens. Der Begriff 'nova' kommt daher, dass diese plötzlichen Helligkeitsausbrüche früher für das Erscheinen neuer Sterne gehalten wurden."
+  },
+  {
+    "question": "Was ist eine 'Elektron-Degeneracy'-Druckgrenze und welche Rolle spielt sie?",
+    "answers": [
+      "Die maximal mögliche Dichte von Elektronengas ohne Entartung",
+      "Der quantenmechanische Druck, der Weiße Zwerge gegen die Gravitation stabilisiert",
+      "Die Grenze, ab der Elektronen in einem Neutronenstern zu Neutronen umgewandelt werden",
+      "Der Druck, bei dem Elektronen und Positronen spontan erzeugt werden"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Dieser durch das Pauli-Ausschlussprinzip verursachte Druck ist unabhängig von der Temperatur und verhindert den weiteren gravitativen Kollaps eines Weißen Zwergs, solange die Chandrasekhar-Grenze nicht überschritten wird."
+  },
+  {
+    "question": "Was ist der 'R Coronae Borealis'-Sterntyp?",
+    "answers": [
+      "Ein leuchtkräftiger, kohlenstoffreicher Stern mit ungewöhnlichen, unregelmäßigen Verdunkelungen",
+      "Ein besonders stabil leuchtender Stern, der als Referenz für astronomische Messungen dient",
+      "Ein schnell rotierender, abgeflachter Stern mit erhöhter Poltemperatur",
+      "Ein Stern mit einer ungewöhnlich großen Korona (Atmosphäre)"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Diese seltenen Sterne können plötzlich um mehrere Größenklassen dunkler werden, wenn sich vermutlich Kohlenstoffstaub in ihrer Atmosphäre bildet und sie wie ein kosmischer Vorhang verdunkelt."
+  },
+  {
+    "question": "Was beschreibt die 'Eigenbewegung' eines Sterns?",
+    "answers": [
+      "Die Bewegung des Sterns aufgrund seiner Eigenrotation",
+      "Die scheinbare Änderung der Position eines Sterns am Himmel aufgrund seiner tatsächlichen Bewegung relativ zur Sonne",
+      "Die Bewegung eines Sterns um das Zentrum seiner Heimatgalaxie",
+      "Die Oszillation eines Sterns durch seine Pulsation"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Bewegung wird in Bogensekunden pro Jahr gemessen und ist ein wichtiger Parameter für die Berechnung der tatsächlichen Raumbewegung eines Sterns. Der Stern mit der größten bekannten Eigenbewegung ist Barnards Pfeilstern."
+  },
+  {
+    "question": "Was ist der 'Local Standard of Rest' (LSR) in der Astronomie?",
+    "answers": [
+      "Ein Referenzrahmen, der sich mit der durchschnittlichen Bewegung der Sterne in der Sonnenumgebung bewegt",
+      "Die Standardposition, von der aus astronomische Beobachtungen durchgeführt werden",
+      "Eine Methode zur Kalibrierung von Teleskopen durch lokale Referenzsterne",
+      "Die Position im Zentrum der Milchstraße, relativ zu der alle Sternbewegungen gemessen werden"
+    ],
+    "correct": [0],
+    "schwierigkeit": 8,
+    "hint": "Dieses Konzept ist wichtig für die Analyse der Bewegung von Sternen und Gaswolken in der Galaxie und hilft, die Eigenbewegung der Sonne selbst zu bestimmen."
+  },
+  {
+    "question": "Wie schnell bewegt sich unsere Sonne ungefähr um das Zentrum der Milchstraße?",
+    "answers": [
+      "Etwa 50 km/s",
+      "Etwa 150 km/s",
+      "Etwa 230 km/s",
+      "Etwa 500 km/s"
+    ],
+    "correct": [2],
+    "schwierigkeit": 5,
+    "hint": "Mit dieser Geschwindigkeit benötigt die Sonne etwa 225-250 Millionen Jahre für einen vollständigen Umlauf um das galaktische Zentrum - eine sogenannte 'kosmische Jahr' oder galaktisches Jahr."
+  },
+  {
+    "question": "Was ist die 'asymmetrische Drift' von Sternen in einer Galaxie?",
+    "answers": [
+      "Die ungleichmäßige Verteilung von Sternen in Spiralarmen",
+      "Die Tendenz älterer Sterne, langsamer um das galaktische Zentrum zu rotieren als die Rotationskurve vorhersagen würde",
+      "Die unterschiedliche Bewegungsrichtung von Sternen in verschmelzenden Galaxien",
+      "Die Abweichung von der perfekten Kreisbahn bei exzentrischen Sternen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Dieses dynamische Phänomen entsteht durch die zunehmende Exzentrizität der Sternbahnen im Laufe der Zeit, verursacht durch gravitativ bedingte Wechselwirkungen zwischen Sternen und Molekülwolken."
+  },
+  {
+    "question": "Was versteht man unter der 'Differentiellen Rotation' einer Galaxie?",
+    "answers": [
+      "Die unterschiedliche Rotationsgeschwindigkeit in verschiedenen Entfernungen vom galaktischen Zentrum",
+      "Die unterschiedliche Rotationsgeschwindigkeit an den Polen und am Äquator eines Sterns",
+      "Die Differenz zwischen der Rotation der Dunklen Materie und der sichtbaren Materie",
+      "Die unterschiedliche Rotationsgeschwindigkeit zwischen benachbarten Galaxien"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Dieses Phänomen erklärt, warum Spiralgalaxien ihre charakteristische Form haben und nicht als starre Körper rotieren. Es ist auch verantwortlich für das 'Winding Problem' von Spiralarmen."
+  },
+  {
+    "question": "Was ist das 'Virial-Theorem' und welche Bedeutung hat es für Galaxien?",
+    "answers": [
+      "Es beschreibt die Gesetze der nuklearen Fusion in Galaxienkernen",
+      "Es ist eine mathematische Gleichung, die die kinetische und potentielle Energie eines stabilen gravitativ gebundenen Systems in Beziehung setzt",
+      "Es definiert das Verhältnis zwischen sichtbarer und Dunkler Materie in Galaxien",
+      "Es beschreibt den Zusammenhang zwischen Masse und Leuchtkraft einer Galaxie"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Dieses fundamentale Theorem der Astrophysik hilft zu verstehen, warum Galaxien nicht kollabieren oder auseinanderfliegen und wurde entscheidend für die Entdeckung der Dunklen Materie, als die beobachteten Geschwindigkeiten mit der sichtbaren Masse nicht übereinstimmten."
+  },
+  {
+    "question": "Was ist die 'Kosmische Inflation' und wann soll sie stattgefunden haben?",
+    "answers": [
+      "Die gegenwärtige Expansion des Universums, die vor etwa 13,8 Milliarden Jahren begann",
+      "Die extrem schnelle exponentielle Ausdehnung des frühen Universums nur 10^-36 bis 10^-32 Sekunden nach dem Urknall",
+      "Die langsame Ausdehnung der Galaxien über Milliarden von Jahren",
+      "Die allmähliche Vergrößerung der kosmischen Strukturen durch Gravitationskollaps"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese von Alan Guth vorgeschlagene Theorie löst mehrere kosmologische Rätsel wie das Horizontproblem und das Flachheitsproblem und erklärt die beobachtete Homogenität und Isotropie des Universums."
+  },
+  {
+    "question": "Was sagt das 'Kosmologische Prinzip' aus?",
+    "answers": [
+      "Das Universum ist überall gleich alt",
+      "Das Universum sieht in jeder Richtung im Wesentlichen gleich aus (isotrop) und hat keine bevorzugte Position (homogen)",
+      "Alle Naturgesetze gelten im gesamten Universum gleichermaßen",
+      "Das Universum folgt einem zyklischen Muster von Expansion und Kontraktion"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese fundamentale Annahme der modernen Kosmologie besagt, dass es keinen bevorzugten Beobachtungsstandpunkt im Universum gibt und die großräumige Struktur des Kosmos einheitlich ist."
+  },
+  {
+    "question": "Was versteht man unter 'Peculiar Velocity' (Pekuliargeschwindigkeit) von Galaxien?",
+    "answers": [
+      "Die Geschwindigkeit, mit der sich eine Galaxie relativ zur kosmischen Expansion bewegt",
+      "Die Rotationsgeschwindigkeit einer Galaxie um ihre eigene Achse",
+      "Die Geschwindigkeit, mit der eine Galaxie neue Sterne bildet",
+      "Die Geschwindigkeit einer Galaxie beim Zusammenstoß mit einer anderen"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Diese Eigengeschwindigkeit überlagert sich mit der Hubble-Fluchtgeschwindigkeit und wird durch lokale Gravitationseinflüsse verursacht. Die Milchstraße hat beispielsweise eine Pekuliargeschwindigkeit von etwa 600 km/s in Richtung des 'Great Attractor'."
+  },
+  {
+    "question": "Was ist die 'Epoche der Rekombination' und wann fand sie statt?",
+    "answers": [
+      "Der Zeitpunkt, an dem sich die ersten Atome bildeten, etwa 380.000 Jahre nach dem Urknall",
+      "Der Moment, in dem sich die ersten Sterne entzündeten, etwa 100 Millionen Jahre nach dem Urknall",
+      "Die Phase, in der sich Galaxien zu Superhaufen zusammenschlossen, etwa 1 Milliarde Jahre nach dem Urknall",
+      "Die Zeit, in der Protonen und Neutronen rekombinierten, etwa 3 Minuten nach dem Urknall"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "In dieser entscheidenden Phase wurde das Universum erstmals für Licht durchlässig, als die Elektronen von den Protonen eingefangen wurden. Die dabei freigesetzte Strahlung ist heute als kosmische Hintergrundstrahlung (CMB) beobachtbar."
+  },
+  {
+    "question": "Wie bewegen sich Galaxien im Virgo-Superhaufen relativ zueinander?",
+    "answers": [
+      "Sie entfernen sich alle gleichmäßig voneinander gemäß dem Hubble-Gesetz",
+      "Sie bewegen sich alle auf das Zentrum des Superhaufens zu",
+      "Sie zeigen komplexe Bewegungen: einige nähern sich an, während die kosmische Expansion das gesamte System ausdehnt",
+      "Sie rotieren alle um einen gemeinsamen Schwerpunkt wie Planeten um eine Sonne"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Die Galaxiendynamik in Superhaufen wird von zwei gegenläufigen Kräften bestimmt: der kosmischen Expansion und der gegenseitigen gravitativen Anziehung. Dies führt zu einem komplexen Bewegungsmuster und lokalen Zusammenschlüssen trotz der generellen Expansion."
+  },
+  {
+    "question": "Was ist die 'Baryonische Akustische Oszillation' (BAO) im frühen Universum?",
+    "answers": [
+      "Die Schwingung der ersten Sterne aufgrund ihrer Kernfusion",
+      "Dichtefluktuationen im frühen Plasma des Universums, die sich als Schallwellen ausbreiteten",
+      "Die Rotation der ersten Protogalaxien",
+      "Die oszillierende Bewegung von Quasaren"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Diese 'Schallwellen' im Urplasma hinterließen ein charakteristisches Muster in der Verteilung der Materie, das heute noch in der großräumigen Struktur des Universums und der kosmischen Hintergrundstrahlung nachweisbar ist und als wichtiges kosmologisches 'Standardlineal' dient."
+  },
+  {
+    "question": "Welches Phänomen beschreibt der 'Kaiser-Effekt' bei der Beobachtung von Galaxienhaufen?",
+    "answers": [
+      "Die scheinbare Abflachung von Galaxienhaufen in Beobachtungsrichtung aufgrund der Rotverschiebungsdistorsion",
+      "Die Konzentration von Galaxien an den Rändern kosmischer Voids",
+      "Die erhöhte Helligkeit von Galaxien im Zentrum eines Haufens",
+      "Die Gravitationslinsenwirkung zwischen zwei überlagerten Galaxienhaufen"
+    ],
+    "correct": [0],
+    "schwierigkeit": 10,
+    "hint": "Dieser nach Nick Kaiser benannte Effekt ist eine systematische Verzerrung in der beobachteten Verteilung von Galaxien im Rotverschiebungsraum. Er entsteht, weil die Pekuliargeschwindigkeiten der Galaxien ihre beobachtete Rotverschiebung beeinflussen und damit ihre scheinbare Position."
+  },
+  {
+    "question": "Was ist die 'Ekpyrotische Kosmologie'?",
+    "answers": [
+      "Ein Modell, das besagt, dass unser Universum durch eine Kollision zwischen zwei 'Branen' in einem höherdimensionalen Raum entstand",
+      "Eine Theorie, die besagt, dass das Universum sich ewig ausdehnen wird",
+      "Ein kosmologisches Modell, das die Existenz von Paralleluniversen vorhersagt",
+      "Eine Theorie, die besagt, dass das Universum in einem 'Big Crunch' enden wird"
+    ],
+    "correct": [0],
+    "schwierigkeit": 10,
+    "hint": "Diese alternative zum inflationären Standardmodell wurde von Paul Steinhardt und Neil Turok vorgeschlagen und leitet sich vom griechischen Wort 'ekpyrosis' (Verbrennung) ab. Sie basiert auf Konzepten der Stringtheorie und M-Theorie."
+  },
+  {
+    "question": "Welche Bedeutung hatte die 'WMAP'-Mission für unser Verständnis des Universums?",
+    "answers": [
+      "Sie kartierte erstmals die großräumige Struktur der Milchstraße",
+      "Sie lieferte präzise Messungen der kosmischen Hintergrundstrahlung und ermöglichte die genaue Bestimmung grundlegender kosmologischer Parameter",
+      "Sie entdeckte die ersten Exoplaneten außerhalb unseres Sonnensystems",
+      "Sie wies die Existenz von Schwarzen Löchern im Zentrum von Galaxien nach"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese NASA-Mission (Wilkinson Microwave Anisotropy Probe, 2001-2010) revolutionierte unser Verständnis des frühen Universums durch ihre detaillierte Karte der winzigen Temperaturunterschiede in der kosmischen Hintergrundstrahlung."
+  },
+  {
+    "question": "Was ist der 'Kosmische Horizont' (auch 'Partikelhorizont' genannt)?",
+    "answers": [
+      "Die Grenze des beobachtbaren Universums, bestimmt durch die maximale Entfernung, aus der Licht seit dem Urknall zu uns gelangen konnte",
+      "Die Grenze, an der sich Galaxien mit Lichtgeschwindigkeit von uns entfernen",
+      "Die Entfernung, ab der wir keine einzelnen Galaxien mehr auflösen können",
+      "Die Entfernung zum nächsten Paralleluniversum gemäß der Viele-Welten-Theorie"
+    ],
+    "correct": [0],
+    "schwierigkeit": 8,
+    "hint": "Diese fundamentale Grenze unserer Beobachtungsmöglichkeiten definiert eine Sphäre um uns, außerhalb derer Ereignisse prinzipiell nicht beobachtbar sind, da ihr Licht uns noch nicht erreicht haben kann. Aufgrund der kosmischen Expansion ist dieser Horizont deutlich größer als 13,8 Milliarden Lichtjahre."
+  },
+  {
+    "question": "Was ist unter dem 'Horizontproblem' in der Kosmologie zu verstehen?",
+    "answers": [
+      "Das Problem, dass wir nur einen begrenzten Teil des Universums beobachten können",
+      "Die Schwierigkeit, den Ereignishorizont Schwarzer Löcher zu untersuchen",
+      "Das Problem, dass räumlich weit getrennte Regionen des Universums dieselbe Temperatur haben, obwohl sie nie in kausalem Kontakt gestanden haben sollten",
+      "Die Unmöglichkeit, die Krümmung des Raums direkt zu messen"
+    ],
+    "correct": [2],
+    "schwierigkeit": 9,
+    "hint": "Dieses Problem ist eines der Hauptargumente für die Inflationstheorie, da es erklärt, wie Regionen des Universums, die heute weit voneinander entfernt sind, einst in thermischem Gleichgewicht sein konnten, bevor sie durch die explosive Inflation getrennt wurden."
+  },
+  {
+    "question": "Was versteht man unter der 'Baryogenese'?",
+    "answers": [
+      "Die Entstehung schwerer Elemente in Supernovae",
+      "Der Prozess, durch den im frühen Universum mehr Materie als Antimaterie entstand",
+      "Die Bildung der ersten Atomkerne durch Kernfusion",
+      "Die Anreicherung von Galaxien mit Metallen durch stellare Entwicklung"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Diese noch nicht vollständig verstandene Phase ist entscheidend für die Existenz unseres Universums, wie wir es kennen. Ohne eine leichte Asymmetrie zwischen Materie und Antimaterie hätten sich beide vollständig annihiliert."
+  },
+  {
+    "question": "Was ist eine 'High-Velocity Cloud' (HVC) in der Astronomie?",
+    "answers": [
+      "Eine Wolke aus interstellarem Gas, die mit hoher Geschwindigkeit relativ zur galaktischen Rotation durch die Milchstraße reist",
+      "Ein besonders schnell expandierender Supernovaüberrest",
+      "Eine Gaswolke, die aus einem aktiven galaktischen Kern ausgestoßen wird",
+      "Eine Wolke aus Materie, die aus dem interstellaren Medium durch einen Pulsarwind beschleunigt wird"
+    ],
+    "correct": [0],
+    "schwierigkeit": 8,
+    "hint": "Diese Gaswolken, hauptsächlich aus neutralem Wasserstoff bestehend, bewegen sich mit Geschwindigkeiten von über 70 km/s relativ zur galaktischen Rotation und könnten Überreste der Galaxienbildung oder Material sein, das durch galaktische Fontänen ausgestoßen wurde."
+  },
+  {
+    "question": "Was bedeutet die 'Proper Motion' eines astronomischen Objekts?",
+    "answers": [
+      "Die korrekte Berechnung seiner Eigendrehung",
+      "Die angemessene Geschwindigkeit, mit der es sich um das galaktische Zentrum bewegen sollte",
+      "Die scheinbare Bewegung eines Objekts am Himmel senkrecht zur Sichtlinie eines Beobachters",
+      "Die Bestimmung seiner korrekten Umlaufbahn durch präzise Messungen"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese Komponente der Eigenbewegung eines Himmelskörpers wird in Bogensekunden pro Jahr gemessen und ist zusammen mit der Radialgeschwindigkeit notwendig, um die tatsächliche Raumbewegung eines Objekts zu bestimmen."
+  },
+  {
+    "question": "Was ist die 'Bondi-Akkretionsrate'?",
+    "answers": [
+      "Die Rate, mit der Materie auf ein Schwarzes Loch fällt, wenn es sich durch ein homogenes Medium bewegt",
+      "Die Geschwindigkeit, mit der Sterne in einer Galaxie gebildet werden",
+      "Die Rate, mit der Materie aus der interstellaren Umgebung auf einen jungen Stern akkretiert wird",
+      "Die Geschwindigkeit, mit der Galaxien neue Sterne bilden"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Diese nach Hermann Bondi benannte Gleichung beschreibt eine idealisierte, sphärisch symmetrische Akkretion und ist wichtig für das Verständnis, wie Schwarze Löcher und Neutronensterne Materie aus ihrer Umgebung aufnehmen."
+  },
+  {
+    "question": "Was ist ein 'Lyman-Alpha-Blob'?",
+    "answers": [
+      "Ein Artefakt, das bei der Kalibrierung von Spektrographen entsteht",
+      "Eine riesige (bis zu mehrere hundert Kiloparsec durchmessende) Region aus leuchtendem Gas im fernen Universum",
+      "Ein bestimmter Typus von Galaxie mit hoher Sternentstehungsrate",
+      "Ein spezieller Typ von interstellarem Gas in der Milchstraße"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Diese mysteriösen, extrem großen und leuchtstarken Strukturen emittieren starke Lyman-Alpha-Strahlung (eine charakteristische Wasserstofflinie) und sind möglicherweise mit der Entstehung der massereichsten Galaxien verbunden."
+  },
+  {
+    "question": "Was ist das 'Kosmologische Lithium-Problem'?",
+    "answers": [
+      "Die überraschend geringe Menge an Lithium, die in alten Sternen beobachtet wird, im Vergleich zu den Vorhersagen der Urknallnukleosynthese",
+      "Die Schwierigkeit, ausreichend Lithium für moderne Batterietechnologien zu finden",
+      "Die ungleiche Verteilung von Lithium in verschiedenen Galaxien",
+      "Die Instabilität von Lithium in stellaren Atmosphären"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Diese Diskrepanz zwischen Theorie und Beobachtung stellt ein ungelöstes Problem für das Standardmodell des Urknalls dar. Die beobachtete Lithium-7-Menge in alten Sternen ist etwa dreimal geringer als von der Theorie vorhergesagt."
+  },
+  {
+    "question": "Was ist die 'Erschaffung des Universums' aus Sicht der modernen Kosmologie?",
+    "answers": [
+      "Eine plötzliche Expansion aus einem extrem heißen, dichten Zustand vor etwa 13,8 Milliarden Jahren (Urknall-Theorie)",
+      "Eine kontinuierliche Schöpfung von Materie in einem ewig existierenden, stabilen Universum",
+      "Das Resultat der Kollision zweier vorheriger Universen",
+      "Ein zyklischer Prozess ohne definierten Anfangspunkt"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Das wissenschaftlich akzeptierte Modell beschreibt nicht die 'Erschaffung aus dem Nichts', sondern die Evolution des Universums aus einem anfänglichen Zustand extremer Dichte und Temperatur. Was vor diesem Zustand war oder ob die Frage nach einem 'davor' überhaupt sinnvoll ist, liegt außerhalb der aktuellen wissenschaftlichen Erkenntnismöglichkeiten."
+  },
+  {
+    "question": "Wie weit erstreckt sich das beobachtbare Universum in alle Richtungen?",
+    "answers": [
+      "Etwa 13,8 Milliarden Lichtjahre (das Alter des Universums)",
+      "Etwa 46,5 Milliarden Lichtjahre (der heutige Abstand zu Objekten, deren Licht kurz nach dem Urknall ausgesandt wurde)",
+      "Etwa 100 Milliarden Lichtjahre (die Gesamtgröße des Universums)",
+      "Unendlich weit in alle Richtungen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Die Größe des beobachtbaren Universums ist größer als sein Alter in Lichtjahren, weil sich das Universum während der Reise des Lichts zu uns weiter ausgedehnt hat. Der kosmische Horizont liegt daher heute viel weiter entfernt als 13,8 Milliarden Lichtjahre."
+  },
+  {
+    "question": "Was ist der 'Kosmologische Rotverschiebungsfaktor' z?",
+    "answers": [
+      "Das Verhältnis zwischen der beobachteten und der emittierten Wellenlänge minus 1",
+      "Die Geschwindigkeit eines Objekts in Prozent der Lichtgeschwindigkeit",
+      "Die Entfernung eines Objekts in Milliarden Lichtjahren",
+      "Das Alter eines Objekts in Milliarden Jahren"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Diese dimensionslose Zahl ist ein direktes Maß für die Ausdehnung des Universums seit dem Zeitpunkt, als das Licht ausgesandt wurde. Bei z=1 war das Universum halb so groß wie heute; der aktuelle Rekord für die höchste gemessene Rotverschiebung liegt bei über z=10."
+  },
+  {
+    "question": "Was ist das 'Äquivalenzprinzip' der Allgemeinen Relativitätstheorie und welche Bedeutung hat es für die Kosmologie?",
+    "answers": [
+      "Das Prinzip, dass die Energie und Masse äquivalent sind (E=mc²)",
+      "Die Feststellung, dass träge und schwere Masse identisch sind und Gravitation nicht von freiem Fall unterscheidbar ist",
+      "Die Annahme, dass alle Naturgesetze im gesamten Universum gleich sind",
+      "Das Prinzip, dass Materie und Antimaterie äquivalent sind"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Dieses von Einstein formulierte Prinzip ist ein Grundpfeiler der Allgemeinen Relativitätstheorie und führte zu seinem revolutionären Verständnis der Gravitation als Raumzeitkrümmung statt als Kraft. Es liefert die theoretische Grundlage für die Beschreibung der kosmischen Expansion."
+  },
+  {
+    "question": "Was ist die 'Schwarzschild-Lösung' der Einsteinschen Feldgleichungen und welche astronomische Bedeutung hat sie?",
+    "answers": [
+      "Die mathematische Beschreibung der Ausdehnung des Universums",
+      "Die Lösung für die Raumzeitgeometrie um ein nicht-rotierendes, elektrisch neutrales Schwarzes Loch",
+      "Die Berechnung der Strahlungskurve eines Schwarzkörpers",
+      "Die Vorhersage der Planetenbahnen im Sonnensystem"
+    ],
+    "correct": [1],
+    "schwierigkeit": 9,
+    "hint": "Diese von Karl Schwarzschild 1916 gefundene exakte Lösung der einsteinschen Feldgleichungen war die erste ihrer Art und beschreibt die Raumzeitkrümmung in der Nähe eines sphärisch symmetrischen Masseobjekts. Sie sagte die Existenz Schwarzer Löcher voraus, lange bevor diese beobachtet wurden."
+  },
+  {
+    "question": "Was ist der 'Peebles-Yu-Formalismus' in der Kosmologie?",
+    "answers": [
+      "Eine Theorie zur Entstehung der kosmischen Hintergrundstrahlung",
+      "Eine mathematische Beschreibung der Entwicklung von Dichteschwankungen im expandierenden Universum",
+      "Ein Modell zur Erklärung der Dunklen Energie",
+      "Eine Theorie über die Bildung der ersten Sterne"
+    ],
+    "correct": [1],
+    "schwierigkeit": 10,
+    "hint": "Dieser von P.J.E. Peebles und H.Y. Yu entwickelte mathematische Rahmen beschreibt, wie kleine Dichtefluktuationen im frühen Universum durch die Schwerkraft zu den heute beobachteten kosmischen Strukturen wie Galaxien und Galaxienhaufen anwachsen konnten."
+  },
+  {
+    "question": "Was bedeutet 'Peculiar Velocity' in der extragalaktischen Astronomie?",
+    "answers": [
+      "Die ungewöhnlichen Rotationsgeschwindigkeiten von Sternen in Galaxien, die auf Dunkle Materie hinweisen",
+      "Die Eigengeschwindigkeit einer Galaxie zusätzlich zur Hubble-Fluss-Geschwindigkeit",
+      "Die Geschwindigkeit, mit der sich Quasare von der Erde entfernen",
+      "Die Geschwindigkeit, mit der Galaxien neue Sterne bilden"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese Komponente der Galaxienbewegung überlagert sich mit der systematischen Hubble-Expansion und wird durch lokale Gravitationseffekte verursacht. Die Milchstraße hat beispielsweise eine Pekuliargeschwindigkeit von etwa 600 km/s in Richtung des Shapley-Superhaufens und des 'Großen Attraktors'."
+  },
+  {
+    "question": "Was ist die 'Kosmische Energiebilanz' des Universums gemäß dem aktuellen Standardmodell?",
+    "answers": [
+      "70% normale Materie, 25% Dunkle Materie, 5% Dunkle Energie",
+      "5% normale Materie, 25% Dunkle Materie, 70% Dunkle Energie",
+      "33% normale Materie, 33% Dunkle Materie, 33% Dunkle Energie",
+      "95% normale Materie, 5% Dunkle Energie"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Diese Zusammensetzung wurde durch Präzisionsmessungen der kosmischen Hintergrundstrahlung und andere Beobachtungen ermittelt. Überraschenderweise macht die sichtbare Materie, aus der Sterne, Planeten und wir selbst bestehen, nur einen winzigen Bruchteil der Energiedichte des Universums aus."
+  },
+  {
+    "question": "Was zeigen 'Rotationskurven' von Galaxien und welches kosmologische Rätsel offenbaren sie?",
+    "answers": [
+      "Sie zeigen die Variation der chemischen Zusammensetzung mit dem Radius und offenbaren die unterschiedliche Entstehungsgeschichte von Galaxienregionen",
+      "Sie zeigen die Rotationsgeschwindigkeit von Sternen und Gas in Abhängigkeit vom Abstand zum galaktischen Zentrum und deuten auf die Existenz Dunkler Materie hin",
+      "Sie zeigen die Verteilung von Sternentstehungsgebieten und deuten auf Probleme mit dem Standardmodell der Sternentwicklung hin",
+      "Sie zeigen die Häufigkeit von Supernovae im Laufe der Galaxiengeschichte"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese fundamentalen Messungen zeigen, dass Sterne am Rand von Spiralgalaxien viel schneller rotieren als aufgrund der sichtbaren Masse erwartet. Nach dem Keplers Gesetz müssten die Geschwindigkeiten abnehmen, stattdessen bleiben sie nahezu konstant mit zunehmender Entfernung vom Zentrum."
+  },
+  {
+    "question": "Was ist unter der 'primordiale Nukleosynthese' zu verstehen?",
+    "answers": [
+      "Die Entstehung der ersten schweren Elemente in Supernovae",
+      "Die Bildung der ersten Atomkerne (hauptsächlich Wasserstoff und Helium) während der ersten Minuten nach dem Urknall",
+      "Die Fusion im Kern der ersten Sterne",
+      "Die Entstehung von organischen Molekülen im frühen Universum"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieser Prozess fand statt, als das Universum etwa 10 Sekunden bis 20 Minuten alt war, und stellte die ersten Atomkerne her. Er erklärt die beobachtete kosmische Häufigkeit der leichtesten Elemente (etwa 75% Wasserstoff, 25% Helium und Spuren von Lithium)."
+  },
+  {
+    "question": "Was ist die 'Gunn-Peterson-Trough' in der Spektralanalyse entfernter Quasare?",
+    "answers": [
+      "Eine Absorptionslinie, die durch intergalaktisches neutrales Wasserstoffgas verursacht wird und Hinweise auf die Reionisierung des Universums liefert",
+      "Eine Emissionslinie, die auf aktive Sternentstehung hinweist",
+      "Eine spezielle Spektrallinie, die zur Entfernungsmessung von Quasaren verwendet wird",
+      "Eine Spektralverzerrung, die durch gravitationale Rotverschiebung entsteht"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Dieses Phänomen wurde 1965 von Gunn und Peterson theoretisch vorhergesagt und erst Jahrzehnte später bei sehr weit entfernten Quasaren (z>6) beobachtet. Es markiert den Übergang vom neutralen frühen Universum zum ionisierten Zustand, den wir heute beobachten."
+  },
+  {
+    "question": "Welche astronomische Entdeckung machten die Maya, die noch heute für die moderne Astronomie relevant ist?",
+    "answers": [
+      "Die genaue Berechnung der Venustransits, die sie mit einer Abweichung von nur zwei Stunden über Jahrhunderte vorhersagen konnten",
+      "Die erste dokumentierte Beobachtung eines Exoplaneten",
+      "Die Kartierung aller mit bloßem Auge sichtbaren Galaxien",
+      "Die Vorhersage von Sonneneruptionen anhand von Sonnenflecken"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Diese präkolumbianische Hochkultur hatte ein so präzises Verständnis des 584-Tage-Zyklus dieses Planeten, dass ihre Berechnungen auch für moderne Astronomen beeindruckend sind. Die Dresdner Handschrift enthält diese Berechnungen."
+  },
+  {
+    "question": "Welche astronomische Methode der Babylonier wird noch heute in modifizierter Form verwendet?",
+    "answers": [
+      "Die Einteilung des Himmels in 12 Tierkreiszeichen",
+      "Die Vermessung von Planetenpositionen mit Hilfe des Saros-Zyklus",
+      "Das Perioden-Relation-Verfahren zur Vorhersage von Planetenpositionen durch numerische Reihen",
+      "Die Berechnung der Sonnenhöhe anhand der Schattenlänge"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Diese mathematische Methode, basierend auf arithmetischen Progressionen statt geometrischen Modellen, wurde erst im 20. Jahrhundert vollständig entschlüsselt und zeigt eine erstaunlich fortschrittliche mathematische Astronomie, die ohne das später entwickelte geometrische Weltbild auskam."
+  },
+  {
+    "question": "Welche astronomische Entdeckung wurde sowohl in chinesischen als auch in europäischen historischen Aufzeichnungen festgehalten und ist für die moderne Astronomie weiterhin bedeutsam?",
+    "answers": [
+      "Der Venustransit von 1639",
+      "Die Supernova von 1054 (die den Krebsnebel erzeugte)",
+      "Die Entdeckung des Uranus",
+      "Der erste beobachtete Zusammenstoß eines Kometen mit Jupiter"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Dieses kosmische Ereignis wurde von chinesischen und arabischen Astronomen als 'Gaststern' beschrieben, der für fast zwei Jahre mit bloßem Auge am Taghimmel sichtbar war. Heute ist sein Überrest ein wichtiges Studienobjekt für Astrophysiker."
+  },
+  {
+    "question": "Welche astronomische Beobachtung des antiken Griechenland legte den Grundstein für die moderne Planetenbewegung?",
+    "answers": [
+      "Die Unterscheidung zwischen Fixsternen und 'Wandelsternen' (Planeten)",
+      "Die Berechnung des Erdumfangs durch Eratosthenes",
+      "Die Beschreibung rückläufiger Planetenbewegungen, die später zur Entwicklung des heliozentrischen Weltbilds beitrug",
+      "Die Bestimmung der Mondphasen und ihre Vorhersage"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Diese scheinbar seltsamen Bewegungen der Planeten am Himmel - zeitweise rückwärts laufend - waren mit dem geozentrischen Weltbild schwer zu erklären und erforderten komplizierte Konstrukte wie Epizykel, bis Kopernikus und später Kepler eine einfachere Erklärung fanden."
+  },
+  {
+    "question": "Welches Instrument aus der antiken Astronomie, das 1901 vor der griechischen Insel Antikythera gefunden wurde, zeigt ein erstaunliches astronomisches Wissen der alten Griechen?",
+    "answers": [
+      "Ein Astrolabium zur Bestimmung der Sternpositionen",
+      "Eine frühe Form des Teleskops mit Linsen aus geschliffenem Quarz",
+      "Ein mechanischer Computer zur Berechnung von Sonnen- und Mondfinsternissen sowie Planetenpositionen",
+      "Ein präzises Zeitmessgerät, das auf Sternbeobachtungen basiert"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Dieser etwa 2100 Jahre alte, komplexe Mechanismus mit mindestens 30 Zahnrädern gilt als der erste bekannte analoge Computer der Welt und hat moderne Wissenschaftler mit seiner Präzision und Komplexität verblüfft."
+  },
+  {
+    "question": "Welcher Astronom berechnete im 10. Jahrhundert die Länge des Sonnenjahres mit einer Genauigkeit, die erst im 19. Jahrhundert übertroffen wurde?",
+    "answers": [
+      "Ptolemäus",
+      "Al-Khwarizmi",
+      "Al-Battani (Albatenius)",
+      "Al-Sufi"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Dieser arabische Astronom berechnete die Länge des Sonnenjahres mit 365 Tagen, 5 Stunden, 46 Minuten und 24 Sekunden - nur etwa 2 Minuten neben dem heutigen Wert. Seine Arbeit beeinflusste später auch Kopernikus."
+  },
+  {
+    "question": "Welche frühe astronomische Innovation hatte direkte Auswirkungen auf die spätere Raumfahrt?",
+    "answers": [
+      "Die Erfindung des Jakobsstabs zur Winkelmessung",
+      "Keplers mathematische Gesetze der Planetenbewegung",
+      "Die Camera Obscura zur Sonnenbeobachtung",
+      "Die astronomischen Tafeln aus Toledo"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Diese drei mathematischen Gesetze, die im frühen 17. Jahrhundert formuliert wurden, beschreiben die Bewegung der Planeten präzise und bilden noch heute die Grundlage für die Berechnung von Raumfahrtmissionen und Satellitenumlaufbahnen."
+  },
+  {
+    "question": "Bei welchem frühen Raumfahrtprojekt kam es zu einer tragischen Katastrophe, die zur Entdeckung eines fundamentalen Problems mit Sauerstoffatmosphären unter Druck führte?",
+    "answers": [
+      "Mercury-Redstone 4 mit Gus Grissom",
+      "Apollo 1 mit Grissom, White und Chaffee",
+      "Sojus 1 mit Wladimir Komarow",
+      "Sojus 11 mit Dobrowolski, Wolkow und Pazajew"
+    ],
+    "correct": [1],
+    "schwierigkeit": 6,
+    "hint": "Bei diesem Bodentest 1967 führte ein Feuer in der mit reinem Sauerstoff unter Druck gefüllten Kapsel zum Tod der drei Astronauten. Die Erkenntnisse aus diesem Unglück führten zu grundlegenden Änderungen in der Atmosphärenzusammensetzung für bemannte Raumfahrzeuge."
+  },
+  {
+    "question": "Welcher frühe Satellit entdeckte den Van-Allen-Strahlungsgürtel, der für die bemannte Raumfahrt bis heute von Bedeutung ist?",
+    "answers": [
+      "Sputnik 1",
+      "Explorer 1",
+      "Vanguard 1",
+      "Luna 1"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Dieser erste US-amerikanische Satellit, gestartet 1958, trug ein Geiger-Müller-Zählrohr, das unerwartet hohe Strahlungswerte registrierte und zur Entdeckung dieses für die Raumfahrt bedeutsamen Phänomens führte."
+  },
+  {
+    "question": "Welche bahnbrechende Entdeckung machte die sowjetische Venera-4-Sonde bei der Venus, die das Verständnis unserer Nachbarplaneten revolutionierte?",
+    "answers": [
+      "Sie entdeckte flüssiges Wasser auf der Venusoberfläche",
+      "Sie wies erstmals den starken Treibhauseffekt mit Oberflächentemperaturen von über 400°C nach",
+      "Sie fand Hinweise auf frühere vulkanische Aktivität",
+      "Sie entdeckte die retrograde Rotation der Venus"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese 1967 durchgeführte Mission war die erste, die Daten aus der Venusatmosphäre übermittelte und zeigte, wie extrem die Bedingungen auf unseren Nachbarplaneten tatsächlich sind - eine wichtige Erkenntnis für das Verständnis von Treibhauseffekten nicht nur auf der Venus."
+  },
+  {
+    "question": "Welches frühe Konzept aus den Anfängen der Raketenforschung wird bis heute für Weltraumteleskope genutzt?",
+    "answers": [
+      "Hermann Oberths Konzept der Mehrstufenrakete",
+      "Wernher von Brauns Stabilisierungssystem mit Kreiseln",
+      "Konstantin Ziolkowskis Gleichung zum Verhältnis von Treibstoffmasse und Geschwindigkeitsänderung",
+      "Robert Goddards Idee des Lagrange-Punkts als stabile Position für Weltraumbeobachtungen"
+    ],
+    "correct": [3],
+    "schwierigkeit": 9,
+    "hint": "Diese speziellen Gleichgewichtspunkte im Gravitationsfeld zweier massereicher Körper wurden bereits früh als ideale Positionen für Weltraumobservatorien erkannt. Heute kreisen Teleskope wie James Webb und GAIA um diese besonderen Punkte."
+  },
+  {
+    "question": "Was war die urspüngliche Motivation hinter dem Bau der Saturn V-Rakete, der bis heute leistungsstärksten erfolgreich geflogenen Rakete?",
+    "answers": [
+      "Wissenschaftliche Erkundung des Mondes",
+      "Militärische Überlegenheit im Kalten Krieg",
+      "Demonstration technologischer Überlegenheit gegenüber der Sowjetunion",
+      "Entwicklung von Technologien für die spätere bemannte Marsmission"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Präsident Kennedy erklärte 1961, dass die USA 'vor dem Ende des Jahrzehnts einen Menschen auf dem Mond landen und sicher zur Erde zurückbringen' würden. Diese politische Entscheidung im Kontext des Kalten Krieges führte zur Entwicklung dieses gewaltigen Trägersystems."
+  },
+  {
+    "question": "Welches fundamentale Weltraumteleskop hat die meisten (über 15.000) wissenschaftlichen Publikationen hervorgebracht und bis heute die Astronomie maßgeblich geprägt?",
+    "answers": [
+      "Das Hubble-Weltraumteleskop",
+      "Das Chandra-Röntgenteleskop",
+      "Das Spitzer-Infrarotteleskop",
+      "Das Kepler-Weltraumteleskop"
+    ],
+    "correct": [0],
+    "schwierigkeit": 5,
+    "hint": "Dieses 1990 gestartete Weltraumteleskop revolutionierte durch seine hochauflösenden Aufnahmen unser Verständnis vom Kosmos und ist auch über 30 Jahre nach seinem Start weiterhin ein zentrales Instrument der modernen Astronomie."
+  },
+  {
+    "question": "Was unterscheidet Neutrinodetektoren grundlegend von anderen astronomischen Instrumenten?",
+    "answers": [
+      "Sie können auch bei Tageslicht und schlechtem Wetter Beobachtungen durchführen",
+      "Sie können direkt durch die Erde hindurch beobachten und damit den gesamten Himmel erfassen",
+      "Sie sind die einzigen Instrumente, die Objekte jenseits unserer Galaxie direkt abbilden können",
+      "Sie können nur künstlich erzeugte Teilchen, nicht aber natürliche kosmische Phänomene detektieren"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Da diese fundamentalen Teilchen extrem selten mit Materie wechselwirken, können sie die Erde praktisch ungehindert durchqueren. Detektoren nutzen diese Eigenschaft, um kosmische Quellen zu beobachten, die von der jeweils entgegengesetzten Seite des Planeten kommen."
+  },
+  {
+    "question": "Welches grundlegend neue Beobachtungsfenster zum Universum wurde 2015 eröffnet?",
+    "answers": [
+      "Terahertz-Astronomie",
+      "Neutrino-Astronomie",
+      "Gravitationswellen-Astronomie",
+      "Direkte Beobachtung von Exoplaneten"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Mit dem ersten direkten Nachweis dieser von Einstein vorhergesagten 'Kräuselungen' in der Raumzeit durch LIGO begann ein völlig neues Zeitalter der Astronomie, das nicht auf elektromagnetische Strahlung oder Teilchen angewiesen ist."
+  },
+  {
+    "question": "Welches besondere Merkmal haben die Super-Kamiokande und ICECUBE Detektoren gemeinsam?",
+    "answers": [
+      "Sie befinden sich beide in der Antarktis",
+      "Beide nutzen große Mengen ultrareines Wasser oder Eis zur Detektion von Neutrinos",
+      "Beide wurden speziell für die Suche nach Dunkler Materie gebaut",
+      "Beide sind weltraumgestützte Instrumente"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Diese riesigen Detektoren - einer in Japan mit 50.000 Tonnen Wasser, der andere am Südpol mit einem Kubikkilometer Eis - nutzen den Tscherenkow-Effekt, um die seltenen Wechselwirkungen von Neutrinos nachzuweisen."
+  },
+  {
+    "question": "Was ist das besondere an dem Gravitationswellen-Signal GW170817?",
+    "answers": [
+      "Es war das erste jemals detektierte Gravitationswellensignal",
+      "Es war das erste Signal von einem Schwarzen Loch mit einer Masse über 100 Sonnenmassen",
+      "Es war das erste Ereignis, das sowohl durch Gravitationswellen als auch durch elektromagnetische Strahlung beobachtet wurde",
+      "Es war das erste Signal, das gleichzeitig von allen drei LIGO/VIRGO-Detektoren erfasst wurde"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Dieses Ereignis vom 17. August 2017 markierte den Beginn der 'Multi-Messenger-Astronomie' mit Gravitationswellen. Es wurde von über 70 Observatorien weltweit in praktisch allen Wellenlängenbereichen beobachtet und als Verschmelzung zweier Neutronensterne identifiziert."
+  },
+  {
+    "question": "Welche revolutionäre Technik zur Beobachtung Schwarzer Löcher wurde 2019 erstmals erfolgreich eingesetzt?",
+    "answers": [
+      "Die direkte Abbildung des Ereignishorizonts durch ein globales Netzwerk von Radioteleskopen",
+      "Die Beobachtung des Gravitationslinseneffekts durch ein Schwarzes Loch",
+      "Die Messung von Hawking-Strahlung mit speziellen Infrarotteleskopen",
+      "Die Beobachtung von Materieausflüssen (Jets) aus der Umgebung eines Schwarzen Lochs"
+    ],
+    "correct": [0],
+    "schwierigkeit": 6,
+    "hint": "Das Event Horizon Telescope, ein planetweites Netzwerk von Radioteleskopen, erzeugte durch Very-Long-Baseline-Interferometrie ein virtuelles Teleskop von der Größe der Erde und konnte damit erstmals den Schatten eines Schwarzen Lochs direkt abbilden."
+  },
+  {
+    "question": "Was ist ein 'Fast Radio Burst' (FRB), und warum sind sie für die Astrophysik bedeutsam?",
+    "answers": [
+      "Sehr kurze, starke Radiosignale unbekannter Herkunft, die als Sonden für das intergalaktische Medium dienen können",
+      "Radioausbrüche vom Jupiter, die durch Wechselwirkungen mit seinem Mond Io entstehen",
+      "Künstliche Radiosignale, die von der Erde ins All gesendet werden, um außerirdische Zivilisationen zu kontaktieren",
+      "Periodische Radiosignale von Pulsaren, die zur Navigation von Raumsonden genutzt werden"
+    ],
+    "correct": [0],
+    "schwierigkeit": 8,
+    "hint": "Diese mysteriösen Millisekunden-Radiosignale wurden erstmals 2007 entdeckt und kommen aus entfernten Galaxien. Ihre Dispersion beim Durchgang durchs All erlaubt Rückschlüsse auf die Dichte des intergalaktischen Mediums."
+  },
+  {
+    "question": "Welche Strahlung bildete Francesco Paresce und sein Team 1989 erstmals mit dem Hubble-Weltraumteleskop ab und eröffneten damit ein neues Feld der Astronomie?",
+    "answers": [
+      "Kosmische Hintergrundstrahlung",
+      "Strahlung von extragalaktischen Nebeln",
+      "Ultraviolette Polarstrahlung (Aurora) der Erde",
+      "Wärmestrahlung von Sternenentstehungsgebieten"
+    ],
+    "correct": [2],
+    "schwierigkeit": 9,
+    "hint": "Diese leuchtenden atmosphärischen Phänomene, die an den Erdpolen durch die Wechselwirkung des Sonnenwinds mit dem Erdmagnetfeld entstehen, wurden erstmals aus dem Weltraum im UV-Bereich detailliert abgebildet. Die Beobachtung solcher Polarlichter ist heute ein wichtiges Forschungsgebiet bei der Suche nach Exoplaneten mit Magnetfeldern."
+  },
+  {
+    "question": "Welcher Neutrinodetektor hat 1987 erstmals Neutrinos von außerhalb unseres Sonnensystems nachgewiesen?",
+    "answers": [
+      "ICECUBE am Südpol",
+      "Super-Kamiokande in Japan",
+      "Kamiokande in Japan",
+      "ANTARES im Mittelmeer"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Dieser japanische Detektor registrierte am 23. Februar 1987 einen kurzen Schwall von Neutrinos von der Supernova SN 1987A in der Großen Magellanschen Wolke - die erste Beobachtung von Neutrinos kosmischen Ursprungs außerhalb des Sonnensystems."
+  },
+  {
+    "question": "Was ist das ALMA-Observatorium und welche besondere Beobachtungstechnik verwendet es?",
+    "answers": [
+      "Ein optisches Teleskop, das adaptive Optik einsetzt",
+      "Ein Röntgenteleskop im Orbit, das die Atmosphäre von Exoplaneten analysiert",
+      "Ein globales Netzwerk von Radioteleskopen zur Beobachtung Schwarzer Löcher",
+      "Ein Interferometer aus 66 Radioantennen, das im (Sub-)Millimeterbereich arbeitet"
+    ],
+    "correct": [3],
+    "schwierigkeit": 6,
+    "hint": "Dieses in der chilenischen Atacama-Wüste auf 5000 m Höhe gelegene Observatorium (Atacama Large Millimeter/submillimeter Array) kann durch Interferometrie eine extrem hohe Auflösung erreichen und ist ideal für die Beobachtung kalter Objekte wie Molekülwolken und protoplanetarer Scheiben."
+  },
+  {
+    "question": "Welches moderne astronomische Instrument hat 2022 die bislang tiefsten Infrarotbilder des frühen Universums geliefert?",
+    "answers": [
+      "Das Hubble Space Telescope nach seinem letzten Service",
+      "Das James Webb Space Telescope",
+      "Das Keck-Observatorium mit adaptiver Optik",
+      "Das SOFIA fliegende Observatorium"
+    ],
+    "correct": [1],
+    "schwierigkeit": 5,
+    "hint": "Dieses 2021 gestartete Infrarot-Weltraumteleskop mit einem 6,5m-Hauptspiegel befindet sich am Lagrange-Punkt L2 und kann viel weiter ins Infrarot blicken als sein Vorgänger, was Beobachtungen der frühesten Galaxien ermöglicht."
+  },
+  {
+    "question": "Welche fundamentale Konstante wurde durch die Beobachtung Gravitationswellen und elektromagnetischer Strahlung von GW170817 bestimmt?",
+    "answers": [
+      "Die Hubble-Konstante",
+      "Die Feinstrukturkonstante",
+      "Die Lichtgeschwindigkeit",
+      "Die Gravitationskonstante"
+    ],
+    "correct": [0],
+    "schwierigkeit": 9,
+    "hint": "Die gleichzeitige Beobachtung dieses Neutronenstern-Verschmelzungsereignisses durch Gravitationswellen und elektromagnetische Strahlung ermöglichte eine unabhängige Messung dieser kosmologischen Konstante, die die Expansionsrate des Universums beschreibt."
+  },
+  {
+    "question": "Welche moderne Methode wird verwendet, um die Atmosphären von Exoplaneten zu analysieren?",
+    "answers": [
+      "Direct Imaging mit adaptiver Optik",
+      "Spektroskopie während des Transits oder der Bedeckung",
+      "Astrometrische Messungen der Sternbewegung",
+      "Doppler-Tomographie durch Radialgeschwindigkeitsmessungen"
+    ],
+    "correct": [1],
+    "schwierigkeit": 7,
+    "hint": "Wenn ein Planet vor seinem Stern vorbeizieht, passiert das Sternlicht die Atmosphäre des Planeten. Die dabei entstehenden Absorptionslinien verraten die chemische Zusammensetzung der Atmosphäre. Ein ähnlicher Effekt tritt auf, wenn der Planet hinter dem Stern verschwindet."
+  },
+  {
+    "question": "Wie wird in der modernen Astronomie nach Signaturen von Leben auf anderen Planeten gesucht?",
+    "answers": [
+      "Durch Radioteleskop-Suche nach technologischen Signalen",
+      "Durch direkten Nachweis komplexer DNA-Moleküle",
+      "Durch Detektion von Biosignaturen wie O₂, CH₄, O₃ in unwahrscheinlichen Gleichgewichtsverhältnissen",
+      "Durch Suche nach künstlichen Lichtquellen auf der Nachtseite von Exoplaneten"
+    ],
+    "correct": [2],
+    "schwierigkeit": 7,
+    "hint": "Die gleichzeitige Anwesenheit bestimmter Gase, die chemisch miteinander reagieren würden, kann ein Hinweis auf biologische Prozesse sein, die diese Gase ständig nachproduzieren - wie auf der Erde, wo Sauerstoff und Methan ohne Leben nicht gleichzeitig in der Atmosphäre existieren würden."
+  },
+  {
+    "question": "Was ist das GAIA-Projekt der ESA und welche fundamentale Bedeutung hat es für die moderne Astronomie?",
+    "answers": [
+      "Ein Röntgenteleskop zur Beobachtung von Schwarzen Löchern",
+      "Eine Mission zur Kartierung der kosmischen Hintergrundstrahlung",
+      "Ein Weltraumteleskop zur präzisen Messung von Position und Bewegung von über einer Milliarde Sternen",
+      "Eine Mission zur Untersuchung des Erdmagnetfelds und seiner Wechselwirkung mit dem Sonnenwind"
+    ],
+    "correct": [2],
+    "schwierigkeit": 6,
+    "hint": "Diese 2013 gestartete Mission erstellt die bislang genaueste dreidimensionale Karte unserer Milchstraße und revolutioniert durch ihre Parallaxenmessungen unser Verständnis der galaktischen Struktur und Entstehungsgeschichte."
+  },
+  {
+    "question": "Was bedeutet die 'Multi-Messenger-Astronomie', die seit 2017 möglich ist?",
+    "answers": [
+      "Die gleichzeitige Beobachtung eines kosmischen Ereignisses mit verschiedenen Arten von Signalen wie Licht, Gravitationswellen und Neutrinos",
+      "Die Kommunikation zwischen verschiedenen Observatorien in Echtzeit",
+      "Die gleichzeitige Nutzung mehrerer Weltraumteleskope für eine Beobachtung",
+      "Die Entwicklung von Methoden zum Kontakt mit außerirdischen Intelligenzen"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Dieser neue Ansatz in der Astronomie kombiniert Informationen aus grundlegend verschiedenen physikalischen Phänomenen, um ein umfassenderes Bild kosmischer Ereignisse zu erhalten - ähnlich wie wenn man einen Film nicht nur sieht, sondern auch hört und fühlt."
+  },
+  {
+    "question": "Was ist das 'Breakthrough Starshot' Projekt und welche moderne Technologie soll dabei zum Einsatz kommen?",
+    "answers": [
+      "Eine geplante bemannte Mission zum Mars mit Ionenantrieb",
+      "Ein Projekt zur Kommunikation mit außerirdischen Intelligenzen durch leistungsstarke Laser",
+      "Eine Initiative zur Entwicklung eines Fusionsantriebs für interstellare Reisen",
+      "Ein Konzept für eine unbemannte Mission zum Proxima Centauri-System mittels lasergetriebener Nanosonden"
+    ],
+    "correct": [3],
+    "schwierigkeit": 8,
+    "hint": "Diese von Yuri Milner und Stephen Hawking initiierte Initiative plant, grammschwere 'StarChips' mit gigantischen Lasern auf etwa 20% der Lichtgeschwindigkeit zu beschleunigen, um innerhalb von 20 Jahren das nächste Sternsystem zu erreichen."
+  },
+  {
+    "question": "Was ist die bedeutendste Entdeckung des Neutrino-Observatoriums ICECUBE in der modernen Astrophysik?",
+    "answers": [
+      "Der Nachweis von Dunkler Materie in der Milchstraße",
+      "Die Detektion von Neutrinos aus der kosmischen Hintergrundstrahlung",
+      "Die Entdeckung hochenergetischer Neutrinos aus aktiven galaktischen Kernen und Blazaren",
+      "Der erste Nachweis von Gravitationswellen durch Neutrinooszillationen"
+    ],
+    "correct": [2],
+    "schwierigkeit": 8,
+    "hint": "Dieser Detektor am Südpol entdeckte 2017 erstmals eine Quelle kosmischer Neutrinos außerhalb unserer Galaxie und eröffnete damit ein neues Fenster zur Erforschung der energiereichsten Prozesse im Universum."
+  },
+  {
+    "question": "Was ist das 'Fermi-Paradoxon' und welche Bedeutung hat es für die moderne SETI-Forschung?",
+    "answers": [
+      "Der Widerspruch zwischen der relativ kurzen Zeit zur Besiedlung der Galaxie und dem Fehlen beobachtbarer außerirdischer Zivilisationen",
+      "Die Unmöglichkeit, schneller als das Licht zu reisen, was interstellare Kommunikation praktisch unmöglich macht",
+      "Das Problem, dass Radiowellen im Weltall zu stark gedämpft werden, um effektive interstellare Kommunikation zu ermöglichen",
+      "Die beobachtete Seltenheit erdähnlicher Planeten, die Leben ermöglichen könnten"
+    ],
+    "correct": [0],
+    "schwierigkeit": 7,
+    "hint": "Diese vom Physiker Enrico Fermi 1950 formulierte Frage 'Wo sind sie alle?' weist darauf hin, dass selbst bei konservativen Annahmen über die Ausbreitung technologischer Zivilisationen die Galaxie längst besiedelt sein müsste - ein zentrales Rätsel in der Suche nach außerirdischer Intelligenz."
+  },
+  {
+    "question": "Welcher Aspekt der Supernova 1987A hat bis heute besondere Bedeutung für die Neutrinophysik?",
+    "answers": [
+      "Die Entdeckung, dass Neutrinos schneller als Licht reisen können",
+      "Die Bestätigung des theoretischen Modells, dass etwa 99% der Energie einer Kernkollaps-Supernova als Neutrinos abgestrahlt wird",
+      "Der Nachweis eines vierten Neutrino-Typs, der nur bei Supernovae erzeugt wird",
+      "Die Entdeckung von Neutrinooszillationen durch die unterschiedlichen Ankunftszeiten"
+    ],
+    "correct": [1],
+    "schwierigkeit": 8,
+    "hint": "Die Detektion von Neutrinos von dieser Supernova vor dem sichtbaren Licht bestätigte das theoretische Verständnis des Kernkollaps, bei dem Neutrinos eine entscheidende Rolle spielen und den Großteil der freigesetzten Energie wegtragen."
   }
 ]
+
